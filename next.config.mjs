@@ -1,14 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
 	images: {
+		unoptimized: true,
 		remotePatterns: [
 			{
 				protocol: 'https',
-				hostname: 'loremflickr.com', // <--- Yangi rasm manbasi
+				hostname: 'loremflickr.com',
 			},
 			{
 				protocol: 'https',
-				hostname: 'images.uzum.uz', // <--- Yangi rasm manbasi
+				hostname: 'images.uzum.uz',
 			},
 			{
 				protocol: 'https',
@@ -16,7 +17,7 @@ const nextConfig = {
 			},
 			{
 				protocol: 'https',
-				hostname: 'mini-io-api.texnomart.uz',
+				hostname: '*.texnomart.uz',
 			}
 		],
 	},
