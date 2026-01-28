@@ -111,7 +111,6 @@ export default function HomeClient({ limit = true }) {
 
 			{/* Loyalty Program Section */}
 			<LoyaltyProgram />
-
 			{/* Footer */}
 			<Footer />
 		</main>

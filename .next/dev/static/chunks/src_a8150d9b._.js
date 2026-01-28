@@ -1,0 +1,3310 @@
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/src/datas/Products.json (json)", ((__turbopack_context__) => {
+
+__turbopack_context__.v(JSON.parse("[{\"id\":1,\"nomi\":\"Polaris PVCR RM\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"LG\",\"rating\":4.3,\"reviewsCount\":9,\"ordersCount\":2328,\"oldPrice\":2963636,\"newPrice\":1985636,\"discount\":33,\"tags\":[\"Arzon\",\"Hit\"],\"colors\":[\"#FF0000\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.9\",\"reviews\":2907},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=11\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=12\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Original mahsulot\",\"Ekologik toza\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Ivah Z.\",\"date\":\"11 noyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Malvina B.\",\"date\":\"28 avgust 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Rupert H.\",\"date\":\"26 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Weston G.\",\"date\":\"11 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Tyler M.\",\"date\":\"28 aprel 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Lonny W.\",\"date\":\"5 avgust 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Nathen L.\",\"date\":\"21 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Royce P.\",\"date\":\"21 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Jasper S.\",\"date\":\"5 aprel 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":2,\"nomi\":\"AirPods Pro 2 HP\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"TechHouse\",\"rating\":4.5,\"reviewsCount\":11,\"ordersCount\":3938,\"oldPrice\":4541456,\"newPrice\":2951946,\"discount\":35,\"tags\":[\"Super Narx\"],\"colors\":[\"#000000\",\"#1E3A8A\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.7\",\"reviews\":2131},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=21\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=22\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=23\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=24\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Ekologik toza\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Dangelo C.\",\"date\":\"1 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Nolan W.\",\"date\":\"22 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Damaris O.\",\"date\":\"5 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Esteban S.\",\"date\":\"23 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Princess K.\",\"date\":\"18 iyul 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Barney M.\",\"date\":\"11 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Wilburn B.\",\"date\":\"5 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Heidi S.\",\"date\":\"27 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Alexander K.\",\"date\":\"15 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Curt M.\",\"date\":\"3 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Kaylie G.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":3,\"nomi\":\"Simsiz quloqchinlar P9 TT\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Huawei\",\"rating\":4.4,\"reviewsCount\":14,\"ordersCount\":4332,\"oldPrice\":2989158,\"newPrice\":2182085,\"discount\":27,\"tags\":[\"Chegirma\"],\"colors\":[\"#22C55E\"],\"seller\":{\"name\":\"Samsung Official\",\"rating\":\"4.6\",\"reviews\":2333},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=31\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=32\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=33\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Tezkor yetkazib berish\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Dayne C.\",\"date\":\"2 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Kylie V.\",\"date\":\"11 oktyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Josiah P.\",\"date\":\"20 fevral 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Abdul S.\",\"date\":\"2 yanvar 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Rosendo B.\",\"date\":\"14 dekabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Cecilia K.\",\"date\":\"3 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Dawn M.\",\"date\":\"3 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Melba D.\",\"date\":\"4 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Elsa G.\",\"date\":\"26 iyun 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Tate R.\",\"date\":\"7 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1011,\"user\":\"Lisa K.\",\"date\":\"16 oktyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Alysha B.\",\"date\":\"28 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1013,\"user\":\"Winston G.\",\"date\":\"17 iyun 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1014,\"user\":\"Alexandrea R.\",\"date\":\"8 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":4,\"nomi\":\"Robot changyutgich Xiaomi E10 JE\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Nike\",\"rating\":5,\"reviewsCount\":23,\"ordersCount\":4452,\"oldPrice\":2090739,\"newPrice\":1128999,\"discount\":46,\"tags\":[\"Tavsiya\"],\"colors\":[\"#FFFFFF\",\"#1E3A8A\",\"#808080\",\"#FF0000\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.9\",\"reviews\":1587},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=41\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=42\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Yuqori sifatli material\"],\"reviewsList\":[]},{\"id\":5,\"nomi\":\"Roborock S7 LS\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Sony\",\"rating\":4.4,\"reviewsCount\":10,\"ordersCount\":147,\"oldPrice\":4379652,\"newPrice\":2496401,\"discount\":43,\"tags\":[\"Arzon\",\"Top\"],\"colors\":[\"#FF0000\",\"#FFFFFF\",\"#000000\",\"#808080\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.6\",\"reviews\":3908},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=51\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=52\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=53\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Zamonaviy dizayn\",\"Hamyonbop narx\",\"Tezkor yetkazib berish\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Demarcus U.\",\"date\":\"13 oktyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Elias S.\",\"date\":\"26 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Celine B.\",\"date\":\"23 fevral 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Joshua S.\",\"date\":\"17 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Jamarcus B.\",\"date\":\"6 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Sabryna S.\",\"date\":\"13 avgust 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Liliana L.\",\"date\":\"15 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Percy D.\",\"date\":\"15 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Demetris K.\",\"date\":\"12 fevral 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Kiana K.\",\"date\":\"19 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":6,\"nomi\":\"AirPods Pro 2 SA\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Xiaomi\",\"rating\":4.5,\"reviewsCount\":2,\"ordersCount\":2548,\"oldPrice\":4247353,\"newPrice\":2336044,\"discount\":45,\"tags\":[\"Arzon\",\"Chegirma\",\"Tavsiya\"],\"colors\":[\"#0000FF\",\"#808080\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.9\",\"reviews\":4328},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=61\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=62\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Magdalen M.\",\"date\":\"12 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Blair C.\",\"date\":\"18 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":7,\"nomi\":\"Xiaomi 14 VK\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Huawei\",\"rating\":4,\"reviewsCount\":3,\"ordersCount\":4322,\"oldPrice\":3988347,\"newPrice\":2712075,\"discount\":32,\"tags\":[\"Top\",\"Hit\"],\"colors\":[\"#1E3A8A\",\"#22C55E\",\"#808080\",\"#FFFFFF\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.8\",\"reviews\":3519},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=71\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=72\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=73\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=74\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Ekologik toza\",\"Original mahsulot\",\"Tezkor yetkazib berish\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Deron G.\",\"date\":\"10 may 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Marianna Y.\",\"date\":\"15 aprel 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Tamia M.\",\"date\":\"15 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":8,\"nomi\":\"Changyutgich Artel VCC YH\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"TechHouse\",\"rating\":4.3,\"reviewsCount\":13,\"ordersCount\":3803,\"oldPrice\":2063492,\"newPrice\":1217460,\"discount\":41,\"tags\":[\"Super Narx\",\"Hit\"],\"colors\":[\"#FFFFFF\",\"#FF0000\",\"#1E3A8A\",\"#F59E0B\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"5.0\",\"reviews\":2232},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=81\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=82\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=83\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=84\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"1 yil kafolat\",\"Yuqori sifatli material\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Verla L.\",\"date\":\"13 yanvar 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Shaun L.\",\"date\":\"19 yanvar 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Meagan M.\",\"date\":\"15 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Ed M.\",\"date\":\"2 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Mabelle R.\",\"date\":\"17 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Korey L.\",\"date\":\"18 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Agnes S.\",\"date\":\"24 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Tatyana W.\",\"date\":\"18 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Bryana P.\",\"date\":\"16 iyun 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Era H.\",\"date\":\"25 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Hulda O.\",\"date\":\"21 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1012,\"user\":\"Lucius L.\",\"date\":\"14 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Elmira D.\",\"date\":\"22 sentyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":9,\"nomi\":\"Klassik ko'ylak CU\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Apple\",\"rating\":4.8,\"reviewsCount\":6,\"ordersCount\":322,\"oldPrice\":2129135,\"newPrice\":1213606,\"discount\":43,\"tags\":[\"Top\",\"Tavsiya\"],\"colors\":[\"#0000FF\",\"#F59E0B\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.8\",\"reviews\":677},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=91\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=92\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=93\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=94\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Hamyonbop narx\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Mireya H.\",\"date\":\"18 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Marlon W.\",\"date\":\"22 avgust 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Gillian V.\",\"date\":\"28 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Kristopher F.\",\"date\":\"24 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Maybell M.\",\"date\":\"4 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Cooper W.\",\"date\":\"14 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":10,\"nomi\":\"Samsung S24 Ultra RE\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Artel\",\"rating\":4.5,\"reviewsCount\":8,\"ordersCount\":3916,\"oldPrice\":4344682,\"newPrice\":2693702,\"discount\":38,\"tags\":[\"Hit\"],\"colors\":[\"#808080\",\"#FFFFFF\",\"#0000FF\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"5.0\",\"reviews\":4433},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=101\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=102\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=103\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"1 yil kafolat\",\"Ekologik toza\",\"Yuqori sifatli material\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Aurelie M.\",\"date\":\"22 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Ella S.\",\"date\":\"10 oktyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Kole R.\",\"date\":\"10 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Kale R.\",\"date\":\"13 oktyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Evans B.\",\"date\":\"3 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Derrick E.\",\"date\":\"15 iyul 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Erna O.\",\"date\":\"11 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Kaleb S.\",\"date\":\"4 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":11,\"nomi\":\"JBL Tune 510BT ZB\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Sony\",\"rating\":4.4,\"reviewsCount\":14,\"ordersCount\":2068,\"oldPrice\":283651,\"newPrice\":238266,\"discount\":16,\"tags\":[\"Hit\",\"Top\",\"Yangi\"],\"colors\":[\"#22C55E\",\"#000000\",\"#FF0000\",\"#808080\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.9\",\"reviews\":196},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=111\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=112\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=113\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=114\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"1 yil kafolat\",\"Original mahsulot\",\"Yuqori sifatli material\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Jaleel S.\",\"date\":\"13 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Merritt O.\",\"date\":\"7 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Wava M.\",\"date\":\"11 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Ole W.\",\"date\":\"3 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Easton K.\",\"date\":\"14 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Elmer Z.\",\"date\":\"10 dekabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Anastasia W.\",\"date\":\"10 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Paxton B.\",\"date\":\"27 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1009,\"user\":\"Flavio R.\",\"date\":\"21 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Nikko N.\",\"date\":\"7 iyun 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1011,\"user\":\"Jordy S.\",\"date\":\"13 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1012,\"user\":\"Patience H.\",\"date\":\"14 oktyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Cleta L.\",\"date\":\"17 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Adolphus T.\",\"date\":\"1 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":12,\"nomi\":\"Erkaklar futbolkasi LD\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"TechHouse\",\"rating\":4.6,\"reviewsCount\":15,\"ordersCount\":4540,\"oldPrice\":4085412,\"newPrice\":3064059,\"discount\":25,\"tags\":[\"Super Narx\",\"Tavsiya\"],\"colors\":[\"#FF0000\",\"#000000\",\"#F59E0B\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.5\",\"reviews\":134},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=121\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=122\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Ekologik toza\",\"Hamyonbop narx\",\"Zamonaviy dizayn\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Mervin T.\",\"date\":\"12 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Carmine F.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Ewell G.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Lacey B.\",\"date\":\"6 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Eliane H.\",\"date\":\"6 noyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Paula K.\",\"date\":\"21 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Abe B.\",\"date\":\"14 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Vita L.\",\"date\":\"6 may 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Favian B.\",\"date\":\"17 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Rosario D.\",\"date\":\"14 noyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Carmella B.\",\"date\":\"7 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1012,\"user\":\"Jeffery K.\",\"date\":\"18 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Leif C.\",\"date\":\"12 dekabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1014,\"user\":\"Alfreda F.\",\"date\":\"22 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1015,\"user\":\"Gianni M.\",\"date\":\"27 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":13,\"nomi\":\"Klassik ko'ylak ET\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Apple\",\"rating\":4.5,\"reviewsCount\":12,\"ordersCount\":962,\"oldPrice\":287105,\"newPrice\":252652,\"discount\":12,\"tags\":[\"Chegirma\",\"Tavsiya\",\"Yangi\"],\"colors\":[\"#0000FF\",\"#000000\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.6\",\"reviews\":175},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=131\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=132\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=133\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Zamonaviy dizayn\",\"Ekologik toza\",\"Hamyonbop narx\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Myron S.\",\"date\":\"19 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Bernice L.\",\"date\":\"28 sentyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Kailyn D.\",\"date\":\"14 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Montana B.\",\"date\":\"15 may 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Zoila S.\",\"date\":\"28 yanvar 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Yvette C.\",\"date\":\"15 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Salvador K.\",\"date\":\"12 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Myrtle J.\",\"date\":\"12 oktyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Weldon M.\",\"date\":\"19 noyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Vern P.\",\"date\":\"25 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Orlo K.\",\"date\":\"18 yanvar 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1012,\"user\":\"Jacklyn M.\",\"date\":\"13 aprel 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":14,\"nomi\":\"iPhone 15 Pro Max GM\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Xiaomi\",\"rating\":4.8,\"reviewsCount\":8,\"ordersCount\":1909,\"oldPrice\":4969343,\"newPrice\":4323328,\"discount\":13,\"tags\":[\"Chegirma\",\"Yangi\"],\"colors\":[\"#F59E0B\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.8\",\"reviews\":1350},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=141\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=142\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=143\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"1 yil kafolat\",\"Tezkor yetkazib berish\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Verner A.\",\"date\":\"19 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Cale B.\",\"date\":\"28 iyul 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Danielle L.\",\"date\":\"1 sentyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Parker F.\",\"date\":\"20 may 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Ramiro B.\",\"date\":\"14 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Jabari B.\",\"date\":\"23 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Jerad D.\",\"date\":\"5 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Percy C.\",\"date\":\"24 iyun 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":15,\"nomi\":\"AirPods Pro 2 YA\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Apple\",\"rating\":4.7,\"reviewsCount\":7,\"ordersCount\":1167,\"oldPrice\":1902589,\"newPrice\":1312786,\"discount\":31,\"tags\":[\"Tavsiya\",\"Hit\"],\"colors\":[\"#0000FF\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.9\",\"reviews\":3003},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=151\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=152\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=153\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=154\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Yuqori sifatli material\",\"Original mahsulot\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Floyd C.\",\"date\":\"25 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Gustave Y.\",\"date\":\"26 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Zachariah Z.\",\"date\":\"9 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Laisha R.\",\"date\":\"17 fevral 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Alycia J.\",\"date\":\"25 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Nicolas C.\",\"date\":\"11 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Myra R.\",\"date\":\"3 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":16,\"nomi\":\"Xudi Oversize YL\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Samsung\",\"rating\":4.3,\"reviewsCount\":6,\"ordersCount\":4873,\"oldPrice\":4849905,\"newPrice\":2764445,\"discount\":43,\"tags\":[\"Yangi\",\"Hit\",\"Arzon\"],\"colors\":[\"#000000\",\"#FFFFFF\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"5.0\",\"reviews\":1933},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=161\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=162\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=163\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Hamyonbop narx\",\"Tezkor yetkazib berish\",\"Ekologik toza\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Rhoda A.\",\"date\":\"10 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Dayton K.\",\"date\":\"16 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Tyreek S.\",\"date\":\"14 iyul 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Hayden L.\",\"date\":\"22 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Charity P.\",\"date\":\"21 mart 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Joelle N.\",\"date\":\"2 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":17,\"nomi\":\"JBL Tune 510BT HM\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Nike\",\"rating\":4.8,\"reviewsCount\":4,\"ordersCount\":744,\"oldPrice\":713093,\"newPrice\":506296,\"discount\":29,\"tags\":[\"Chegirma\"],\"colors\":[\"#000000\",\"#FFFFFF\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.8\",\"reviews\":2797},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=171\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=172\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=173\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Ekologik toza\",\"Zamonaviy dizayn\",\"1 yil kafolat\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kali W.\",\"date\":\"28 may 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Marianne P.\",\"date\":\"15 iyul 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Hayden S.\",\"date\":\"17 yanvar 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Carter K.\",\"date\":\"2 dekabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":18,\"nomi\":\"Klassik ko'ylak PS\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Sony\",\"rating\":4.1,\"reviewsCount\":7,\"ordersCount\":1439,\"oldPrice\":2427565,\"newPrice\":2111981,\"discount\":13,\"tags\":[\"Chegirma\"],\"colors\":[\"#F59E0B\",\"#808080\",\"#FFFFFF\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.9\",\"reviews\":3208},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=181\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=182\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=183\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=184\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Ekologik toza\",\"Yuqori sifatli material\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Gianni K.\",\"date\":\"25 dekabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Delilah W.\",\"date\":\"26 dekabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Karelle M.\",\"date\":\"25 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Elisabeth K.\",\"date\":\"25 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Otto W.\",\"date\":\"20 sentyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Crawford K.\",\"date\":\"19 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Jaida V.\",\"date\":\"27 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":19,\"nomi\":\"iPhone 15 Pro Max XA\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"TechHouse\",\"rating\":4.6,\"reviewsCount\":8,\"ordersCount\":4544,\"oldPrice\":3895541,\"newPrice\":2220458,\"discount\":43,\"tags\":[\"Arzon\",\"Top\",\"Chegirma\"],\"colors\":[\"#1E3A8A\",\"#FFFFFF\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.9\",\"reviews\":2389},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=191\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=192\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=193\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Yuqori sifatli material\",\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Mervin R.\",\"date\":\"28 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Kaylin D.\",\"date\":\"2 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Clementina L.\",\"date\":\"19 oktyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Eliane H.\",\"date\":\"19 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Jasper G.\",\"date\":\"11 fevral 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Sigmund K.\",\"date\":\"27 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Bernardo L.\",\"date\":\"12 noyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Catherine S.\",\"date\":\"26 mart 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":20,\"nomi\":\"Klassik ko'ylak VK\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Sony\",\"rating\":4.4,\"reviewsCount\":13,\"ordersCount\":4271,\"oldPrice\":2199237,\"newPrice\":1319542,\"discount\":40,\"tags\":[\"Top\",\"Chegirma\"],\"colors\":[\"#F59E0B\",\"#FFFFFF\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.5\",\"reviews\":477},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=201\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=202\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Zamonaviy dizayn\",\"Ekologik toza\",\"Yuqori sifatli material\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Myrtie S.\",\"date\":\"17 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Laney W.\",\"date\":\"26 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Freida R.\",\"date\":\"17 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Jazlyn W.\",\"date\":\"20 sentyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Osborne B.\",\"date\":\"16 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Salvatore H.\",\"date\":\"18 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Elza G.\",\"date\":\"15 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Raymond C.\",\"date\":\"28 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Melvin S.\",\"date\":\"3 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Dee C.\",\"date\":\"2 iyun 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Callie K.\",\"date\":\"26 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Ed C.\",\"date\":\"7 aprel 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Jarret W.\",\"date\":\"14 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":21,\"nomi\":\"Sportivka Nike AX\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Samsung\",\"rating\":4.2,\"reviewsCount\":10,\"ordersCount\":2793,\"oldPrice\":1784227,\"newPrice\":1231116,\"discount\":31,\"tags\":[\"Top\"],\"colors\":[\"#0000FF\",\"#808080\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.7\",\"reviews\":1603},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=211\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=212\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=213\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"1 yil kafolat\",\"Zamonaviy dizayn\",\"Hamyonbop narx\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Gregoria R.\",\"date\":\"13 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Leatha H.\",\"date\":\"7 dekabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Armani L.\",\"date\":\"4 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Dolly K.\",\"date\":\"13 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Ardella M.\",\"date\":\"26 yanvar 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Kaleb S.\",\"date\":\"6 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Madisyn B.\",\"date\":\"20 dekabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Valentina C.\",\"date\":\"6 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Rex H.\",\"date\":\"25 aprel 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Libby C.\",\"date\":\"24 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":22,\"nomi\":\"Redmi Note 13 WA\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Nike\",\"rating\":4.5,\"reviewsCount\":15,\"ordersCount\":1017,\"oldPrice\":4938056,\"newPrice\":4444250,\"discount\":10,\"tags\":[\"Chegirma\"],\"colors\":[\"#F59E0B\",\"#FF0000\",\"#22C55E\"],\"seller\":{\"name\":\"Samsung Official\",\"rating\":\"4.6\",\"reviews\":2388},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=221\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=222\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=223\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Hamyonbop narx\",\"Ekologik toza\",\"Zamonaviy dizayn\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Moriah W.\",\"date\":\"13 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Elisha W.\",\"date\":\"17 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Remington W.\",\"date\":\"18 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Marietta R.\",\"date\":\"26 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Dusty C.\",\"date\":\"2 mart 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Clementina H.\",\"date\":\"24 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Vada S.\",\"date\":\"18 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Carlie R.\",\"date\":\"9 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Jenifer W.\",\"date\":\"15 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Friedrich M.\",\"date\":\"14 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Sydni F.\",\"date\":\"11 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1012,\"user\":\"Julio W.\",\"date\":\"9 oktyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Lindsay H.\",\"date\":\"27 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Annalise S.\",\"date\":\"9 noyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1015,\"user\":\"Reid K.\",\"date\":\"17 dekabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":23,\"nomi\":\"AirPods Pro 2 JC\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Samsung\",\"rating\":4.3,\"reviewsCount\":3,\"ordersCount\":4489,\"oldPrice\":439904,\"newPrice\":268341,\"discount\":39,\"tags\":[\"Arzon\",\"Chegirma\",\"Top\"],\"colors\":[\"#000000\",\"#F59E0B\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.9\",\"reviews\":1506},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=231\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=232\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=233\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Yuqori sifatli material\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Myra S.\",\"date\":\"13 sentyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Savion B.\",\"date\":\"12 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Colten P.\",\"date\":\"12 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":24,\"nomi\":\"Sony WH-1000XM5 SG\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Adidas\",\"rating\":4.5,\"reviewsCount\":2,\"ordersCount\":2824,\"oldPrice\":4093571,\"newPrice\":2169592,\"discount\":47,\"tags\":[\"Arzon\",\"Top\",\"Chegirma\"],\"colors\":[\"#808080\",\"#F59E0B\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.9\",\"reviews\":396},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=241\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=242\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Zamonaviy dizayn\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Daniela S.\",\"date\":\"13 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Karine R.\",\"date\":\"22 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":25,\"nomi\":\"Changyutgich Artel VCC TE\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Polaris\",\"rating\":4.7,\"reviewsCount\":3,\"ordersCount\":2698,\"oldPrice\":1338414,\"newPrice\":1137651,\"discount\":15,\"tags\":[\"Hit\",\"Yangi\",\"Super Narx\"],\"colors\":[\"#22C55E\",\"#1E3A8A\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.8\",\"reviews\":344},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=251\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=252\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Ekologik toza\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Adella A.\",\"date\":\"22 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Alicia J.\",\"date\":\"13 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Leif E.\",\"date\":\"28 oktyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":26,\"nomi\":\"Changyutgich Artel VCC PB\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Samsung\",\"rating\":4.5,\"reviewsCount\":2,\"ordersCount\":1887,\"oldPrice\":1928121,\"newPrice\":1735308,\"discount\":10,\"tags\":[\"Chegirma\",\"Yangi\",\"Top\"],\"colors\":[\"#1E3A8A\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"5.0\",\"reviews\":1255},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=261\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=262\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=263\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Yuqori sifatli material\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Rosie K.\",\"date\":\"12 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Syble K.\",\"date\":\"10 iyul 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":27,\"nomi\":\"Sportivka Nike WC\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Samsung\",\"rating\":4.7,\"reviewsCount\":9,\"ordersCount\":2844,\"oldPrice\":1559680,\"newPrice\":1310131,\"discount\":16,\"tags\":[\"Tavsiya\"],\"colors\":[\"#0000FF\",\"#FF0000\",\"#000000\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.8\",\"reviews\":552},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=271\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=272\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=273\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=274\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Zamonaviy dizayn\",\"Tezkor yetkazib berish\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Gardner C.\",\"date\":\"22 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Lucinda R.\",\"date\":\"20 sentyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Darrick W.\",\"date\":\"22 oktyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Rick K.\",\"date\":\"28 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Lorena E.\",\"date\":\"6 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Laisha C.\",\"date\":\"8 noyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Dion P.\",\"date\":\"23 avgust 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Patrick O.\",\"date\":\"13 may 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Geraldine F.\",\"date\":\"21 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":28,\"nomi\":\"Simsiz quloqchinlar P9 GC\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Apple\",\"rating\":5,\"reviewsCount\":34,\"ordersCount\":2292,\"oldPrice\":4015103,\"newPrice\":3613592,\"discount\":10,\"tags\":[\"Chegirma\",\"Tavsiya\"],\"colors\":[\"#FFFFFF\",\"#000000\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"5.0\",\"reviews\":4377},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=281\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=282\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=283\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"1 yil kafolat\",\"Hamyonbop narx\",\"Yuqori sifatli material\"],\"reviewsList\":[]},{\"id\":29,\"nomi\":\"Polaris PVCR NO\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Nike\",\"rating\":4.7,\"reviewsCount\":14,\"ordersCount\":546,\"oldPrice\":2552566,\"newPrice\":1276283,\"discount\":50,\"tags\":[\"Super Narx\",\"Chegirma\"],\"colors\":[\"#808080\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.6\",\"reviews\":2905},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=291\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=292\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=293\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Hamyonbop narx\",\"1 yil kafolat\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kaley J.\",\"date\":\"10 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Nona W.\",\"date\":\"19 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Laura T.\",\"date\":\"10 mart 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Gloria J.\",\"date\":\"22 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Imani G.\",\"date\":\"14 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Meaghan S.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Gladys C.\",\"date\":\"13 avgust 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Timothy D.\",\"date\":\"15 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Norval H.\",\"date\":\"8 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Demetrius H.\",\"date\":\"8 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Florian D.\",\"date\":\"21 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1012,\"user\":\"Jaycee B.\",\"date\":\"19 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Keaton S.\",\"date\":\"6 sentyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Erling L.\",\"date\":\"3 dekabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":30,\"nomi\":\"Robot changyutgich Xiaomi E10 KW\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Adidas\",\"rating\":4.5,\"reviewsCount\":14,\"ordersCount\":2114,\"oldPrice\":4243753,\"newPrice\":2121876,\"discount\":50,\"tags\":[\"Top\"],\"colors\":[\"#000000\",\"#F59E0B\",\"#808080\",\"#22C55E\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.6\",\"reviews\":2994},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=301\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=302\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Ekologik toza\",\"Hamyonbop narx\",\"Yuqori sifatli material\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Sam M.\",\"date\":\"26 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Cathy R.\",\"date\":\"10 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Jeramie H.\",\"date\":\"4 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Corine K.\",\"date\":\"25 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Cortez R.\",\"date\":\"7 iyun 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Travis W.\",\"date\":\"8 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Rogers H.\",\"date\":\"9 yanvar 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Rosella J.\",\"date\":\"14 dekabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Margarete S.\",\"date\":\"11 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Natalia J.\",\"date\":\"24 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Sven C.\",\"date\":\"20 mart 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Wilfrid K.\",\"date\":\"10 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1013,\"user\":\"Reta G.\",\"date\":\"19 yanvar 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Baby E.\",\"date\":\"1 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":31,\"nomi\":\"Sportivka Nike NH\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Artel\",\"rating\":4.8,\"reviewsCount\":6,\"ordersCount\":1628,\"oldPrice\":3713271,\"newPrice\":2525024,\"discount\":32,\"tags\":[\"Top\",\"Yangi\",\"Chegirma\"],\"colors\":[\"#22C55E\",\"#000000\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.5\",\"reviews\":2275},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=311\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=312\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=313\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=314\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Zamonaviy dizayn\",\"Ekologik toza\",\"Tezkor yetkazib berish\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Raina D.\",\"date\":\"25 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Christina H.\",\"date\":\"25 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Hudson H.\",\"date\":\"15 iyul 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Jada W.\",\"date\":\"18 fevral 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Thelma A.\",\"date\":\"19 aprel 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Heath R.\",\"date\":\"18 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":32,\"nomi\":\"Sony WH-1000XM5 IN\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Xiaomi\",\"rating\":4.5,\"reviewsCount\":10,\"ordersCount\":1709,\"oldPrice\":1554502,\"newPrice\":1259146,\"discount\":19,\"tags\":[\"Tavsiya\",\"Arzon\",\"Hit\"],\"colors\":[\"#808080\",\"#000000\",\"#FF0000\",\"#1E3A8A\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.6\",\"reviews\":3672},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=321\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=322\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=323\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Yuqori sifatli material\",\"Hamyonbop narx\",\"Original mahsulot\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Sadie B.\",\"date\":\"11 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Meghan B.\",\"date\":\"18 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Ashleigh F.\",\"date\":\"12 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Henri R.\",\"date\":\"19 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Walker L.\",\"date\":\"7 avgust 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Freeman K.\",\"date\":\"5 noyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Elinore L.\",\"date\":\"28 iyun 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Garret J.\",\"date\":\"14 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Javon B.\",\"date\":\"19 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Anya W.\",\"date\":\"12 iyun 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":33,\"nomi\":\"Sportivka Nike UB\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Nike\",\"rating\":4.4,\"reviewsCount\":5,\"ordersCount\":1599,\"oldPrice\":4476917,\"newPrice\":3447226,\"discount\":23,\"tags\":[\"Yangi\"],\"colors\":[\"#0000FF\",\"#1E3A8A\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.9\",\"reviews\":1920},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=331\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=332\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=333\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Zamonaviy dizayn\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Cordell O.\",\"date\":\"11 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Pedro M.\",\"date\":\"27 avgust 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Rory T.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Raina B.\",\"date\":\"3 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Wilford R.\",\"date\":\"9 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":34,\"nomi\":\"JBL Tune 510BT VU\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"LG\",\"rating\":4.4,\"reviewsCount\":15,\"ordersCount\":1419,\"oldPrice\":2032439,\"newPrice\":1321085,\"discount\":35,\"tags\":[\"Hit\",\"Yangi\",\"Tavsiya\"],\"colors\":[\"#0000FF\",\"#22C55E\"],\"seller\":{\"name\":\"Samsung Official\",\"rating\":\"5.0\",\"reviews\":394},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=341\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=342\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Lucy O.\",\"date\":\"12 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Johnson S.\",\"date\":\"9 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Annamae O.\",\"date\":\"25 fevral 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Douglas K.\",\"date\":\"17 iyun 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Jefferey F.\",\"date\":\"9 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Ayden F.\",\"date\":\"19 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Lesly H.\",\"date\":\"25 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Jameson G.\",\"date\":\"12 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Kari W.\",\"date\":\"15 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Maximus S.\",\"date\":\"22 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Anais R.\",\"date\":\"7 may 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Rosamond D.\",\"date\":\"12 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Evangeline B.\",\"date\":\"2 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Gerhard K.\",\"date\":\"12 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1015,\"user\":\"Flavie R.\",\"date\":\"1 noyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":35,\"nomi\":\"iPhone 15 Pro Max KF\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Samsung\",\"rating\":4.3,\"reviewsCount\":12,\"ordersCount\":2978,\"oldPrice\":2113370,\"newPrice\":1479359,\"discount\":30,\"tags\":[\"Hit\"],\"colors\":[\"#0000FF\",\"#FFFFFF\",\"#1E3A8A\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.5\",\"reviews\":2004},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=351\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=352\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=353\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Hamyonbop narx\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Dino G.\",\"date\":\"21 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Mayra T.\",\"date\":\"28 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Vena S.\",\"date\":\"28 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Josie B.\",\"date\":\"12 sentyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Eleanora R.\",\"date\":\"23 may 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Omer H.\",\"date\":\"11 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Eileen M.\",\"date\":\"13 yanvar 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Reid O.\",\"date\":\"13 aprel 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Mallie J.\",\"date\":\"27 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Wilhelm O.\",\"date\":\"5 oktyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Alexandrea F.\",\"date\":\"21 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Ron K.\",\"date\":\"11 fevral 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":36,\"nomi\":\"Sony WH-1000XM5 BR\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"LG\",\"rating\":4.8,\"reviewsCount\":6,\"ordersCount\":4344,\"oldPrice\":4499063,\"newPrice\":2969381,\"discount\":34,\"tags\":[\"Yangi\"],\"colors\":[\"#000000\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.5\",\"reviews\":4928},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=361\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=362\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Yuqori sifatli material\",\"Hamyonbop narx\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Darren O.\",\"date\":\"27 iyun 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Monique H.\",\"date\":\"22 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Ebony R.\",\"date\":\"9 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Haley B.\",\"date\":\"10 iyul 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Bradley R.\",\"date\":\"3 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Marianne E.\",\"date\":\"11 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":37,\"nomi\":\"Sportivka Nike NZ\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"LG\",\"rating\":4.7,\"reviewsCount\":9,\"ordersCount\":832,\"oldPrice\":3013829,\"newPrice\":2441201,\"discount\":19,\"tags\":[\"Arzon\",\"Top\"],\"colors\":[\"#0000FF\",\"#1E3A8A\",\"#FFFFFF\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.5\",\"reviews\":3601},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=371\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=372\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=373\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=374\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Ekologik toza\",\"Original mahsulot\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Cooper J.\",\"date\":\"2 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Bulah C.\",\"date\":\"18 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Cesar H.\",\"date\":\"17 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Dominic B.\",\"date\":\"23 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Kassandra F.\",\"date\":\"15 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Leila M.\",\"date\":\"8 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Sarah D.\",\"date\":\"1 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Jaycee F.\",\"date\":\"11 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1009,\"user\":\"Kitty F.\",\"date\":\"24 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":38,\"nomi\":\"Sportivka Nike DB\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Samsung\",\"rating\":4.5,\"reviewsCount\":40,\"ordersCount\":732,\"oldPrice\":2776454,\"newPrice\":1943517,\"discount\":30,\"tags\":[\"Yangi\",\"Super Narx\"],\"colors\":[\"#0000FF\",\"#F59E0B\",\"#FF0000\",\"#1E3A8A\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.6\",\"reviews\":1110},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=381\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=382\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=383\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Hamyonbop narx\"],\"reviewsList\":[]},{\"id\":39,\"nomi\":\"Samsung S24 Ultra ZK\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Apple\",\"rating\":4.7,\"reviewsCount\":6,\"ordersCount\":3768,\"oldPrice\":367506,\"newPrice\":271954,\"discount\":26,\"tags\":[\"Top\",\"Chegirma\",\"Super Narx\"],\"colors\":[\"#0000FF\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.5\",\"reviews\":2105},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=391\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=392\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=393\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Hamyonbop narx\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Sadye C.\",\"date\":\"23 yanvar 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Alexis R.\",\"date\":\"4 may 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Vesta S.\",\"date\":\"19 iyul 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Blanche C.\",\"date\":\"13 iyun 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Hope J.\",\"date\":\"17 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Madaline H.\",\"date\":\"21 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":40,\"nomi\":\"iPhone 15 Pro Max ZK\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Nike\",\"rating\":4,\"reviewsCount\":1,\"ordersCount\":1374,\"oldPrice\":3881475,\"newPrice\":3376883,\"discount\":13,\"tags\":[\"Tavsiya\",\"Chegirma\"],\"colors\":[\"#FFFFFF\",\"#F59E0B\",\"#FF0000\",\"#1E3A8A\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.6\",\"reviews\":583},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=401\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=402\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=403\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=404\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Yuqori sifatli material\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Caleigh D.\",\"date\":\"20 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":41,\"nomi\":\"Sportivka Nike FC\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Artel\",\"rating\":4.6,\"reviewsCount\":14,\"ordersCount\":2573,\"oldPrice\":1471147,\"newPrice\":1044514,\"discount\":29,\"tags\":[\"Chegirma\",\"Super Narx\"],\"colors\":[\"#F59E0B\",\"#FFFFFF\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.5\",\"reviews\":2431},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=411\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=412\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=413\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=414\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Tezkor yetkazib berish\",\"1 yil kafolat\",\"Zamonaviy dizayn\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kody L.\",\"date\":\"14 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Ella D.\",\"date\":\"4 iyul 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Francisca L.\",\"date\":\"20 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Myrtle S.\",\"date\":\"13 yanvar 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Marianne B.\",\"date\":\"18 fevral 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Ignacio C.\",\"date\":\"3 may 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Georgianna H.\",\"date\":\"7 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Albin W.\",\"date\":\"6 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Dylan K.\",\"date\":\"4 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Pablo W.\",\"date\":\"18 may 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1011,\"user\":\"Hallie L.\",\"date\":\"7 fevral 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Eden L.\",\"date\":\"13 sentyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Raul F.\",\"date\":\"7 yanvar 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1014,\"user\":\"Lloyd S.\",\"date\":\"13 dekabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":42,\"nomi\":\"Changyutgich Artel VCC FJ\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Adidas\",\"rating\":4.9,\"reviewsCount\":7,\"ordersCount\":3067,\"oldPrice\":3035671,\"newPrice\":1730332,\"discount\":43,\"tags\":[\"Super Narx\"],\"colors\":[\"#1E3A8A\",\"#22C55E\",\"#FFFFFF\",\"#0000FF\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.7\",\"reviews\":2185},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=421\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=422\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Hamyonbop narx\",\"Original mahsulot\",\"Ekologik toza\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Miller K.\",\"date\":\"20 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Demond D.\",\"date\":\"2 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Ewell R.\",\"date\":\"5 yanvar 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Jefferey S.\",\"date\":\"28 yanvar 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Janiya B.\",\"date\":\"16 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Nikita K.\",\"date\":\"20 noyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Delia S.\",\"date\":\"24 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":43,\"nomi\":\"Klassik ko'ylak GM\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Xiaomi\",\"rating\":4.8,\"reviewsCount\":5,\"ordersCount\":3961,\"oldPrice\":2908063,\"newPrice\":2413692,\"discount\":17,\"tags\":[\"Tavsiya\",\"Chegirma\"],\"colors\":[\"#FF0000\",\"#1E3A8A\",\"#22C55E\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.6\",\"reviews\":3180},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=431\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=432\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=433\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Yuqori sifatli material\",\"Original mahsulot\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kasandra M.\",\"date\":\"6 may 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Dayna W.\",\"date\":\"27 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Kory F.\",\"date\":\"13 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Orion B.\",\"date\":\"4 may 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Maximus E.\",\"date\":\"9 dekabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":44,\"nomi\":\"Klassik ko'ylak BC\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Sony\",\"rating\":4.4,\"reviewsCount\":10,\"ordersCount\":3480,\"oldPrice\":1896093,\"newPrice\":1365186,\"discount\":28,\"tags\":[\"Tavsiya\",\"Top\"],\"colors\":[\"#FFFFFF\",\"#0000FF\",\"#000000\",\"#22C55E\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.5\",\"reviews\":2473},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=441\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=442\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=443\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=444\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Zamonaviy dizayn\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Olga Z.\",\"date\":\"21 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Torey O.\",\"date\":\"4 iyun 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Cathrine F.\",\"date\":\"11 aprel 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Norval S.\",\"date\":\"3 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Lexie H.\",\"date\":\"1 avgust 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Rafael W.\",\"date\":\"8 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Loy D.\",\"date\":\"27 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Antonietta P.\",\"date\":\"4 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Troy D.\",\"date\":\"28 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Libby T.\",\"date\":\"28 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":45,\"nomi\":\"Polaris PVCR EK\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Nike\",\"rating\":4.6,\"reviewsCount\":8,\"ordersCount\":4541,\"oldPrice\":1267335,\"newPrice\":659014,\"discount\":48,\"tags\":[\"Chegirma\"],\"colors\":[\"#FF0000\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.5\",\"reviews\":2102},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=451\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=452\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=453\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=454\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"1 yil kafolat\",\"Ekologik toza\",\"Original mahsulot\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Bart K.\",\"date\":\"7 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Jalyn S.\",\"date\":\"6 yanvar 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Abraham G.\",\"date\":\"8 fevral 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Darrin P.\",\"date\":\"1 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Bartholome T.\",\"date\":\"9 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Harry K.\",\"date\":\"27 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Frida L.\",\"date\":\"23 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Esteban V.\",\"date\":\"28 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":46,\"nomi\":\"iPhone 15 Pro Max QA\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"TechHouse\",\"rating\":4.2,\"reviewsCount\":11,\"ordersCount\":1351,\"oldPrice\":4982382,\"newPrice\":3288372,\"discount\":34,\"tags\":[\"Top\"],\"colors\":[\"#FF0000\",\"#22C55E\",\"#808080\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.9\",\"reviews\":3080},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=461\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=462\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=463\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=464\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Yuqori sifatli material\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kayley V.\",\"date\":\"22 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Curt R.\",\"date\":\"6 iyul 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Tiffany H.\",\"date\":\"6 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Ephraim M.\",\"date\":\"7 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Clare R.\",\"date\":\"17 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Mckenna F.\",\"date\":\"26 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Ena H.\",\"date\":\"10 fevral 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Mercedes W.\",\"date\":\"19 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Amely D.\",\"date\":\"28 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Emmanuel K.\",\"date\":\"10 dekabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Carli B.\",\"date\":\"11 dekabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":47,\"nomi\":\"Changyutgich Artel VCC RW\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Huawei\",\"rating\":4.5,\"reviewsCount\":11,\"ordersCount\":2566,\"oldPrice\":4721163,\"newPrice\":3918565,\"discount\":17,\"tags\":[\"Chegirma\",\"Super Narx\"],\"colors\":[\"#808080\",\"#000000\",\"#FF0000\"],\"seller\":{\"name\":\"Samsung Official\",\"rating\":\"5.0\",\"reviews\":716},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=471\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=472\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Yuqori sifatli material\",\"Original mahsulot\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Omer T.\",\"date\":\"2 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Dandre C.\",\"date\":\"23 sentyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Vance O.\",\"date\":\"12 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Christa M.\",\"date\":\"12 oktyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Kari M.\",\"date\":\"14 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Agustin N.\",\"date\":\"4 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Judge S.\",\"date\":\"7 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Freeda G.\",\"date\":\"21 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Quincy M.\",\"date\":\"27 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Zelma F.\",\"date\":\"7 iyun 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1011,\"user\":\"Alessia M.\",\"date\":\"28 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":48,\"nomi\":\"iPhone 15 Pro Max RD\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Huawei\",\"rating\":4.5,\"reviewsCount\":2,\"ordersCount\":1197,\"oldPrice\":577508,\"newPrice\":334954,\"discount\":42,\"tags\":[\"Hit\"],\"colors\":[\"#22C55E\",\"#FF0000\",\"#1E3A8A\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.5\",\"reviews\":3697},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=481\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=482\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=483\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Tezkor yetkazib berish\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Izabella R.\",\"date\":\"12 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Mossie M.\",\"date\":\"1 dekabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":49,\"nomi\":\"Samsung Galaxy Buds2 WE\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Samsung\",\"rating\":4.5,\"reviewsCount\":14,\"ordersCount\":3526,\"oldPrice\":1125619,\"newPrice\":900495,\"discount\":20,\"tags\":[\"Yangi\"],\"colors\":[\"#000000\",\"#0000FF\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.9\",\"reviews\":2113},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=491\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=492\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=493\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Hamyonbop narx\",\"Zamonaviy dizayn\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Jermaine D.\",\"date\":\"18 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Karianne O.\",\"date\":\"6 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Abelardo B.\",\"date\":\"20 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Orlo G.\",\"date\":\"26 iyul 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Alaina S.\",\"date\":\"26 fevral 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Aletha A.\",\"date\":\"4 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Benedict C.\",\"date\":\"12 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Oliver H.\",\"date\":\"19 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Ericka B.\",\"date\":\"14 dekabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Percival B.\",\"date\":\"3 fevral 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Laurie F.\",\"date\":\"26 fevral 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Evie P.\",\"date\":\"26 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Helena W.\",\"date\":\"16 dekabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Darryl R.\",\"date\":\"4 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":50,\"nomi\":\"Klassik ko'ylak BM\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Huawei\",\"rating\":4.5,\"reviewsCount\":13,\"ordersCount\":2909,\"oldPrice\":4013274,\"newPrice\":2407964,\"discount\":40,\"tags\":[\"Top\",\"Arzon\",\"Tavsiya\"],\"colors\":[\"#000000\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.8\",\"reviews\":3245},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=501\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=502\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=503\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=504\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Yuqori sifatli material\",\"Hamyonbop narx\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Michele S.\",\"date\":\"12 fevral 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Madaline G.\",\"date\":\"4 may 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Carlie B.\",\"date\":\"20 avgust 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Porter H.\",\"date\":\"4 aprel 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Cyrus G.\",\"date\":\"7 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Vicenta C.\",\"date\":\"19 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Adolfo B.\",\"date\":\"19 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Katlyn T.\",\"date\":\"17 fevral 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Dimitri K.\",\"date\":\"22 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Amina S.\",\"date\":\"17 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Magnus M.\",\"date\":\"15 avgust 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Derek R.\",\"date\":\"3 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1013,\"user\":\"Camylle B.\",\"date\":\"4 fevral 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":51,\"nomi\":\"Roborock S7 EN\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Huawei\",\"rating\":4.6,\"reviewsCount\":14,\"ordersCount\":119,\"oldPrice\":4883348,\"newPrice\":3369510,\"discount\":31,\"tags\":[\"Arzon\",\"Chegirma\",\"Super Narx\"],\"colors\":[\"#FFFFFF\",\"#22C55E\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.8\",\"reviews\":2582},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=511\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=512\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=513\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=514\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Yuqori sifatli material\",\"Hamyonbop narx\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Clementina W.\",\"date\":\"8 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Tre W.\",\"date\":\"12 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Cade G.\",\"date\":\"13 iyul 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Amos B.\",\"date\":\"23 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Cassie P.\",\"date\":\"15 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Ora D.\",\"date\":\"17 sentyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Merlin C.\",\"date\":\"20 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Earl T.\",\"date\":\"28 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1009,\"user\":\"Rodger S.\",\"date\":\"21 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Prince B.\",\"date\":\"21 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Wendell S.\",\"date\":\"24 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Vicky K.\",\"date\":\"10 oktyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1013,\"user\":\"Leopold S.\",\"date\":\"22 mart 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1014,\"user\":\"Turner G.\",\"date\":\"17 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":52,\"nomi\":\"AirPods Pro 2 CD\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Adidas\",\"rating\":4.4,\"reviewsCount\":7,\"ordersCount\":3781,\"oldPrice\":3880561,\"newPrice\":2134308,\"discount\":45,\"tags\":[\"Chegirma\"],\"colors\":[\"#F59E0B\",\"#1E3A8A\",\"#FFFFFF\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"5.0\",\"reviews\":755},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=521\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=522\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=523\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=524\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Zamonaviy dizayn\",\"Ekologik toza\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Marley T.\",\"date\":\"4 iyun 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Jaunita H.\",\"date\":\"26 sentyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Marge S.\",\"date\":\"6 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Madisen M.\",\"date\":\"17 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Willa D.\",\"date\":\"6 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Silas M.\",\"date\":\"24 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Consuelo J.\",\"date\":\"16 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":53,\"nomi\":\"iPhone 13 RV\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Sony\",\"rating\":4.5,\"reviewsCount\":11,\"ordersCount\":4159,\"oldPrice\":4199084,\"newPrice\":2141532,\"discount\":49,\"tags\":[\"Arzon\",\"Chegirma\"],\"colors\":[\"#22C55E\",\"#FFFFFF\",\"#1E3A8A\",\"#0000FF\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.7\",\"reviews\":2905},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=531\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=532\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=533\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=534\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Original mahsulot\",\"Tezkor yetkazib berish\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Brendon A.\",\"date\":\"7 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Garret B.\",\"date\":\"12 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Rigoberto K.\",\"date\":\"2 may 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Naomie S.\",\"date\":\"20 avgust 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Yasmeen D.\",\"date\":\"19 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Jedidiah S.\",\"date\":\"26 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Aniyah D.\",\"date\":\"25 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Laisha W.\",\"date\":\"3 fevral 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1009,\"user\":\"Weston T.\",\"date\":\"1 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Karen H.\",\"date\":\"13 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Ansel K.\",\"date\":\"2 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":54,\"nomi\":\"iPhone 15 Pro Max ET\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"LG\",\"rating\":4.6,\"reviewsCount\":7,\"ordersCount\":2018,\"oldPrice\":2676722,\"newPrice\":2328748,\"discount\":13,\"tags\":[\"Top\"],\"colors\":[\"#F59E0B\",\"#FF0000\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.6\",\"reviews\":3707},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=541\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=542\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=543\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Hamyonbop narx\",\"Yuqori sifatli material\",\"Original mahsulot\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Maxwell H.\",\"date\":\"9 noyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Jermaine F.\",\"date\":\"8 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Jeromy G.\",\"date\":\"19 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Krystal W.\",\"date\":\"18 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Vaughn G.\",\"date\":\"15 may 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Gerald W.\",\"date\":\"16 yanvar 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Carolanne M.\",\"date\":\"7 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":55,\"nomi\":\"Polaris PVCR TQ\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"LG\",\"rating\":4,\"reviewsCount\":1,\"ordersCount\":3304,\"oldPrice\":2058709,\"newPrice\":1399922,\"discount\":32,\"tags\":[\"Tavsiya\",\"Top\",\"Yangi\"],\"colors\":[\"#F59E0B\",\"#FFFFFF\",\"#1E3A8A\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.6\",\"reviews\":3343},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=551\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=552\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=553\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Juana B.\",\"date\":\"15 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":56,\"nomi\":\"JBL Tune 510BT XU\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Artel\",\"rating\":4.6,\"reviewsCount\":8,\"ordersCount\":2226,\"oldPrice\":2675797,\"newPrice\":2087121,\"discount\":22,\"tags\":[\"Hit\",\"Super Narx\"],\"colors\":[\"#000000\",\"#0000FF\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.5\",\"reviews\":1824},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=561\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=562\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Hamyonbop narx\",\"Yuqori sifatli material\",\"Ekologik toza\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Luz R.\",\"date\":\"12 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Judd F.\",\"date\":\"15 oktyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Carmel Z.\",\"date\":\"5 noyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Brock H.\",\"date\":\"15 oktyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Vernice F.\",\"date\":\"21 avgust 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Loma G.\",\"date\":\"10 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Xzavier K.\",\"date\":\"19 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Kenyon P.\",\"date\":\"3 mart 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":57,\"nomi\":\"Robot changyutgich Xiaomi E10 JT\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Apple\",\"rating\":4.5,\"reviewsCount\":4,\"ordersCount\":1633,\"oldPrice\":2209370,\"newPrice\":1325622,\"discount\":40,\"tags\":[\"Top\",\"Arzon\",\"Hit\"],\"colors\":[\"#808080\",\"#000000\",\"#0000FF\",\"#F59E0B\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.8\",\"reviews\":1944},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=571\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=572\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=573\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=574\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Zamonaviy dizayn\",\"Original mahsulot\",\"Hamyonbop narx\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Tillman W.\",\"date\":\"19 oktyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Margarett W.\",\"date\":\"28 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Juston L.\",\"date\":\"3 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Nicolette B.\",\"date\":\"21 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":58,\"nomi\":\"Sony WH-1000XM5 BU\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Samsung\",\"rating\":4.8,\"reviewsCount\":4,\"ordersCount\":2110,\"oldPrice\":4890703,\"newPrice\":2445351,\"discount\":50,\"tags\":[\"Tavsiya\",\"Hit\"],\"colors\":[\"#FFFFFF\",\"#000000\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.5\",\"reviews\":4342},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=581\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=582\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=583\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Ekologik toza\",\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kendall O.\",\"date\":\"7 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Daren S.\",\"date\":\"11 aprel 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Hailey L.\",\"date\":\"15 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Javier C.\",\"date\":\"18 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":59,\"nomi\":\"Robot changyutgich Xiaomi E10 ME\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Samsung\",\"rating\":4.5,\"reviewsCount\":10,\"ordersCount\":2467,\"oldPrice\":2410290,\"newPrice\":1277453,\"discount\":47,\"tags\":[\"Yangi\",\"Hit\",\"Super Narx\"],\"colors\":[\"#22C55E\",\"#0000FF\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.8\",\"reviews\":185},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=591\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=592\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=593\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Original mahsulot\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Melody O.\",\"date\":\"14 noyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Johnpaul T.\",\"date\":\"26 avgust 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Darrion K.\",\"date\":\"10 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Rickey W.\",\"date\":\"18 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Clint S.\",\"date\":\"17 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Phoebe W.\",\"date\":\"28 aprel 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Linnie U.\",\"date\":\"12 fevral 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Ashly H.\",\"date\":\"3 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Donny O.\",\"date\":\"4 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Miles W.\",\"date\":\"24 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":60,\"nomi\":\"Samsung S24 Ultra IM\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"LG\",\"rating\":4.5,\"reviewsCount\":11,\"ordersCount\":2540,\"oldPrice\":2690156,\"newPrice\":1345078,\"discount\":50,\"tags\":[\"Super Narx\",\"Chegirma\"],\"colors\":[\"#FF0000\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.8\",\"reviews\":3489},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=601\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=602\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=603\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=604\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Ekologik toza\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Daryl R.\",\"date\":\"22 fevral 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Annabel G.\",\"date\":\"24 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Stella C.\",\"date\":\"8 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Edwin W.\",\"date\":\"11 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Rosa R.\",\"date\":\"7 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Jody K.\",\"date\":\"1 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Darlene R.\",\"date\":\"9 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Shannon H.\",\"date\":\"17 dekabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Madie P.\",\"date\":\"19 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Matteo Y.\",\"date\":\"28 yanvar 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Jamarcus F.\",\"date\":\"14 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":61,\"nomi\":\"iPhone 13 JL\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Apple\",\"rating\":4.6,\"reviewsCount\":21,\"ordersCount\":3678,\"oldPrice\":4559482,\"newPrice\":3465206,\"discount\":24,\"tags\":[\"Top\",\"Hit\"],\"colors\":[\"#0000FF\",\"#808080\",\"#22C55E\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.7\",\"reviews\":1539},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=611\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=612\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=613\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Hamyonbop narx\",\"Zamonaviy dizayn\"],\"reviewsList\":[]},{\"id\":62,\"nomi\":\"Roborock S7 DB\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Apple\",\"rating\":4.7,\"reviewsCount\":7,\"ordersCount\":3190,\"oldPrice\":3306130,\"newPrice\":1950616,\"discount\":41,\"tags\":[\"Super Narx\",\"Chegirma\",\"Hit\"],\"colors\":[\"#000000\",\"#1E3A8A\",\"#F59E0B\",\"#0000FF\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.5\",\"reviews\":3750},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=621\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=622\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=623\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=624\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Zamonaviy dizayn\",\"1 yil kafolat\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Lolita C.\",\"date\":\"6 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Gunner H.\",\"date\":\"12 yanvar 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Jadyn G.\",\"date\":\"16 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Janiya B.\",\"date\":\"17 sentyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Deron H.\",\"date\":\"13 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Rogers W.\",\"date\":\"27 oktyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Jamar D.\",\"date\":\"1 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":63,\"nomi\":\"Xiaomi 14 DH\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Sony\",\"rating\":4.5,\"reviewsCount\":15,\"ordersCount\":4672,\"oldPrice\":4278649,\"newPrice\":2182110,\"discount\":49,\"tags\":[\"Yangi\",\"Hit\",\"Chegirma\"],\"colors\":[\"#FF0000\",\"#000000\",\"#22C55E\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"5.0\",\"reviews\":1238},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=631\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=632\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\",\"1 yil kafolat\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Eudora K.\",\"date\":\"10 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Harold F.\",\"date\":\"4 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Triston C.\",\"date\":\"11 aprel 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Arnaldo T.\",\"date\":\"16 yanvar 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Carson W.\",\"date\":\"11 mart 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Joy K.\",\"date\":\"12 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Patricia R.\",\"date\":\"22 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Anibal S.\",\"date\":\"17 fevral 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Modesto T.\",\"date\":\"5 dekabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Molly E.\",\"date\":\"8 dekabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1011,\"user\":\"Keara K.\",\"date\":\"10 sentyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1012,\"user\":\"Noelia B.\",\"date\":\"4 oktyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Sydnie C.\",\"date\":\"6 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1014,\"user\":\"Waylon W.\",\"date\":\"13 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1015,\"user\":\"Mya L.\",\"date\":\"2 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":64,\"nomi\":\"iPhone 15 Pro Max BG\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Polaris\",\"rating\":4.7,\"reviewsCount\":12,\"ordersCount\":3275,\"oldPrice\":166372,\"newPrice\":123115,\"discount\":26,\"tags\":[\"Tavsiya\"],\"colors\":[\"#000000\",\"#22C55E\",\"#808080\",\"#F59E0B\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.8\",\"reviews\":1691},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=641\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=642\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=643\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Miller L.\",\"date\":\"19 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Stanton O.\",\"date\":\"16 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Libby H.\",\"date\":\"5 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Ulises T.\",\"date\":\"1 yanvar 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Emelie R.\",\"date\":\"8 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Abdullah O.\",\"date\":\"3 dekabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Wilton H.\",\"date\":\"6 aprel 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Jarred J.\",\"date\":\"28 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Oran W.\",\"date\":\"24 mart 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Amie Z.\",\"date\":\"17 may 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Giovanni K.\",\"date\":\"4 iyun 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1012,\"user\":\"Ernest S.\",\"date\":\"19 oktyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":65,\"nomi\":\"Klassik ko'ylak LJ\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Polaris\",\"rating\":4.7,\"reviewsCount\":6,\"ordersCount\":4400,\"oldPrice\":4202486,\"newPrice\":3446038,\"discount\":18,\"tags\":[\"Chegirma\",\"Hit\"],\"colors\":[\"#F59E0B\",\"#FFFFFF\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.7\",\"reviews\":1855},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=651\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=652\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=653\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Hamyonbop narx\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Krystina R.\",\"date\":\"8 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Rozella H.\",\"date\":\"21 noyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Ernie D.\",\"date\":\"13 aprel 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Vincent A.\",\"date\":\"28 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Audie F.\",\"date\":\"27 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Eloy S.\",\"date\":\"1 noyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":66,\"nomi\":\"Polaris PVCR JJ\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"LG\",\"rating\":4.8,\"reviewsCount\":9,\"ordersCount\":2008,\"oldPrice\":4429016,\"newPrice\":3056021,\"discount\":31,\"tags\":[\"Top\"],\"colors\":[\"#FFFFFF\",\"#000000\",\"#F59E0B\",\"#808080\"],\"seller\":{\"name\":\"Samsung Official\",\"rating\":\"5.0\",\"reviews\":1587},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=661\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=662\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"1 yil kafolat\",\"Hamyonbop narx\",\"Yuqori sifatli material\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Skylar G.\",\"date\":\"5 dekabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Ivory S.\",\"date\":\"24 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Jaquelin P.\",\"date\":\"19 fevral 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Josefina S.\",\"date\":\"2 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Audie T.\",\"date\":\"24 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Summer K.\",\"date\":\"22 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Richie G.\",\"date\":\"18 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Mike F.\",\"date\":\"28 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Josie W.\",\"date\":\"19 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":67,\"nomi\":\"iPhone 13 HN\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Apple\",\"rating\":4.5,\"reviewsCount\":6,\"ordersCount\":2770,\"oldPrice\":4211965,\"newPrice\":3622289,\"discount\":14,\"tags\":[\"Super Narx\",\"Arzon\",\"Hit\"],\"colors\":[\"#1E3A8A\",\"#FF0000\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.9\",\"reviews\":217},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=671\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=672\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=673\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=674\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Original mahsulot\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Frederic B.\",\"date\":\"10 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Sallie M.\",\"date\":\"28 sentyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Mossie R.\",\"date\":\"11 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Mitchell M.\",\"date\":\"18 dekabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Gideon M.\",\"date\":\"8 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Hipolito G.\",\"date\":\"10 fevral 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":68,\"nomi\":\"Roborock S7 NR\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Nike\",\"rating\":4.3,\"reviewsCount\":3,\"ordersCount\":2549,\"oldPrice\":4524357,\"newPrice\":3076562,\"discount\":32,\"tags\":[\"Top\",\"Yangi\",\"Hit\"],\"colors\":[\"#1E3A8A\",\"#FFFFFF\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.7\",\"reviews\":3603},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=681\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=682\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Yuqori sifatli material\",\"Original mahsulot\",\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Gregory N.\",\"date\":\"13 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Jesse M.\",\"date\":\"28 iyun 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Imogene S.\",\"date\":\"24 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":69,\"nomi\":\"iPhone 15 Pro Max MM\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Sony\",\"rating\":4,\"reviewsCount\":1,\"ordersCount\":3097,\"oldPrice\":945660,\"newPrice\":851094,\"discount\":10,\"tags\":[\"Arzon\"],\"colors\":[\"#000000\",\"#FF0000\",\"#F59E0B\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"4.5\",\"reviews\":4165},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=691\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=692\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=693\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Ekologik toza\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Janis S.\",\"date\":\"22 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":70,\"nomi\":\"Sportivka Nike AP\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Apple\",\"rating\":4.7,\"reviewsCount\":14,\"ordersCount\":3243,\"oldPrice\":1202316,\"newPrice\":769482,\"discount\":36,\"tags\":[\"Tavsiya\"],\"colors\":[\"#0000FF\",\"#808080\",\"#1E3A8A\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.6\",\"reviews\":4080},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=701\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=702\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=703\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Original mahsulot\",\"Hamyonbop narx\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Peyton H.\",\"date\":\"8 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Kyla H.\",\"date\":\"12 dekabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Vicente B.\",\"date\":\"4 yanvar 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Jack K.\",\"date\":\"22 oktyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Alexane H.\",\"date\":\"24 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Casandra J.\",\"date\":\"4 sentyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Marion P.\",\"date\":\"4 fevral 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Dianna B.\",\"date\":\"20 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Jerome H.\",\"date\":\"20 avgust 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Kaelyn G.\",\"date\":\"19 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Amelie D.\",\"date\":\"7 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Meagan S.\",\"date\":\"22 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1013,\"user\":\"Sabrina G.\",\"date\":\"3 noyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Sidney R.\",\"date\":\"26 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":71,\"nomi\":\"Samsung S24 Ultra PC\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Polaris\",\"rating\":4.6,\"reviewsCount\":15,\"ordersCount\":3634,\"oldPrice\":697267,\"newPrice\":509004,\"discount\":27,\"tags\":[\"Chegirma\"],\"colors\":[\"#FFFFFF\",\"#0000FF\",\"#1E3A8A\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.7\",\"reviews\":2690},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=711\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=712\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"1 yil kafolat\",\"Yuqori sifatli material\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Gianni R.\",\"date\":\"3 sentyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Giuseppe P.\",\"date\":\"16 noyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Ruthe B.\",\"date\":\"25 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Magnus H.\",\"date\":\"2 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Casandra S.\",\"date\":\"18 aprel 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Aurelie E.\",\"date\":\"12 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Jake M.\",\"date\":\"10 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Madilyn B.\",\"date\":\"1 oktyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Kenna G.\",\"date\":\"4 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Kaci K.\",\"date\":\"11 dekabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Orion W.\",\"date\":\"7 noyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1012,\"user\":\"Princess M.\",\"date\":\"8 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1013,\"user\":\"Kylee E.\",\"date\":\"23 may 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1014,\"user\":\"Kane R.\",\"date\":\"2 iyul 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1015,\"user\":\"Carlotta P.\",\"date\":\"27 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":72,\"nomi\":\"iPhone 15 Pro Max AO\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Xiaomi\",\"rating\":4.5,\"reviewsCount\":8,\"ordersCount\":4654,\"oldPrice\":1192629,\"newPrice\":977955,\"discount\":18,\"tags\":[\"Top\",\"Hit\"],\"colors\":[\"#808080\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.9\",\"reviews\":4798},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=721\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=722\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=723\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=724\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Ekologik toza\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Leonardo W.\",\"date\":\"13 sentyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Lisette K.\",\"date\":\"2 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Jarred K.\",\"date\":\"25 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Jaeden P.\",\"date\":\"23 fevral 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Vivian H.\",\"date\":\"27 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Retta B.\",\"date\":\"22 may 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Katelin M.\",\"date\":\"21 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Julia J.\",\"date\":\"8 may 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":73,\"nomi\":\"iPhone 15 Pro Max WJ\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Huawei\",\"rating\":4.3,\"reviewsCount\":3,\"ordersCount\":2865,\"oldPrice\":1499813,\"newPrice\":1199850,\"discount\":20,\"tags\":[\"Arzon\"],\"colors\":[\"#22C55E\",\"#FFFFFF\",\"#F59E0B\"],\"seller\":{\"name\":\"Polaris Official\",\"rating\":\"4.8\",\"reviews\":4184},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=731\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=732\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Hamyonbop narx\",\"Yuqori sifatli material\",\"Zamonaviy dizayn\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Natasha A.\",\"date\":\"6 sentyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Rosalee W.\",\"date\":\"3 sentyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Mollie H.\",\"date\":\"15 noyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":74,\"nomi\":\"Xudi Oversize MI\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"LG\",\"rating\":4,\"reviewsCount\":4,\"ordersCount\":491,\"oldPrice\":1128895,\"newPrice\":857960,\"discount\":24,\"tags\":[\"Top\",\"Arzon\"],\"colors\":[\"#FF0000\",\"#F59E0B\",\"#000000\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.6\",\"reviews\":2068},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=741\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=742\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=743\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Original mahsulot\",\"Tezkor yetkazib berish\",\"1 yil kafolat\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Skyla H.\",\"date\":\"27 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Catherine H.\",\"date\":\"27 iyun 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Kristy S.\",\"date\":\"2 fevral 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Virgil O.\",\"date\":\"22 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":75,\"nomi\":\"Klassik ko'ylak EE\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Polaris\",\"rating\":4.6,\"reviewsCount\":14,\"ordersCount\":4520,\"oldPrice\":784523,\"newPrice\":604082,\"discount\":23,\"tags\":[\"Tavsiya\",\"Top\"],\"colors\":[\"#FFFFFF\",\"#FF0000\",\"#F59E0B\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.9\",\"reviews\":4550},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=751\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=752\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=753\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=754\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Hamyonbop narx\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Brando L.\",\"date\":\"4 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Coty R.\",\"date\":\"1 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Haleigh F.\",\"date\":\"15 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Joan L.\",\"date\":\"8 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Justice M.\",\"date\":\"9 noyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Maryam P.\",\"date\":\"11 dekabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Vida K.\",\"date\":\"12 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Esther R.\",\"date\":\"12 noyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Felton A.\",\"date\":\"6 may 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Lizeth H.\",\"date\":\"16 avgust 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Bryon H.\",\"date\":\"28 aprel 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Damon T.\",\"date\":\"11 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Vidal A.\",\"date\":\"8 noyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1014,\"user\":\"Hollie M.\",\"date\":\"18 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":76,\"nomi\":\"Sportivka Nike RQ\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Xiaomi\",\"rating\":4.4,\"reviewsCount\":5,\"ordersCount\":3570,\"oldPrice\":3439247,\"newPrice\":2441865,\"discount\":29,\"tags\":[\"Chegirma\"],\"colors\":[\"#F59E0B\",\"#0000FF\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"5.0\",\"reviews\":1049},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=761\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=762\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=763\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Hamyonbop narx\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Jayden H.\",\"date\":\"21 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Tremayne H.\",\"date\":\"11 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Neha W.\",\"date\":\"12 fevral 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Gabriel S.\",\"date\":\"24 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Tracy A.\",\"date\":\"10 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":77,\"nomi\":\"Xiaomi 14 DG\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"TechHouse\",\"rating\":4.8,\"reviewsCount\":6,\"ordersCount\":4193,\"oldPrice\":3545192,\"newPrice\":2091663,\"discount\":41,\"tags\":[\"Top\"],\"colors\":[\"#000000\",\"#FFFFFF\",\"#F59E0B\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.7\",\"reviews\":2585},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=771\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=772\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Hamyonbop narx\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Hettie C.\",\"date\":\"26 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Newell H.\",\"date\":\"27 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Hugh M.\",\"date\":\"7 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Gabrielle D.\",\"date\":\"26 yanvar 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Lamar K.\",\"date\":\"17 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Macey S.\",\"date\":\"17 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":78,\"nomi\":\"iPhone 15 Pro Max RV\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"LG\",\"rating\":4.5,\"reviewsCount\":10,\"ordersCount\":1130,\"oldPrice\":2492964,\"newPrice\":2019300,\"discount\":19,\"tags\":[\"Super Narx\"],\"colors\":[\"#000000\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.8\",\"reviews\":714},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=781\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=782\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=783\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=784\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Ekologik toza\",\"Zamonaviy dizayn\",\"1 yil kafolat\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Emilie D.\",\"date\":\"20 dekabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Peggie M.\",\"date\":\"23 may 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Abagail B.\",\"date\":\"23 oktyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Ryley L.\",\"date\":\"21 fevral 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Robin H.\",\"date\":\"8 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Kurtis B.\",\"date\":\"21 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Daphney S.\",\"date\":\"21 noyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Joanne R.\",\"date\":\"12 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Marisol P.\",\"date\":\"4 sentyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Maxime S.\",\"date\":\"14 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":79,\"nomi\":\"iPhone 15 Pro Max NT\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Samsung\",\"rating\":4.2,\"reviewsCount\":5,\"ordersCount\":4739,\"oldPrice\":4920099,\"newPrice\":4182084,\"discount\":15,\"tags\":[\"Tavsiya\"],\"colors\":[\"#22C55E\",\"#FFFFFF\",\"#808080\"],\"seller\":{\"name\":\"Nike Official\",\"rating\":\"4.7\",\"reviews\":4385},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=791\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=792\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=793\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=794\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Ekologik toza\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kayley C.\",\"date\":\"2 iyun 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Amina L.\",\"date\":\"12 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Helga S.\",\"date\":\"9 oktyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Elinor K.\",\"date\":\"2 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Frederique K.\",\"date\":\"28 oktyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":80,\"nomi\":\"Samsung Galaxy Buds2 UF\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"TechHouse\",\"rating\":4.6,\"reviewsCount\":14,\"ordersCount\":2636,\"oldPrice\":2118839,\"newPrice\":1758636,\"discount\":17,\"tags\":[\"Super Narx\"],\"colors\":[\"#000000\",\"#FFFFFF\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.7\",\"reviews\":597},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=801\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=802\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Murl L.\",\"date\":\"24 may 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Xavier K.\",\"date\":\"26 aprel 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Catharine T.\",\"date\":\"25 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Emelie R.\",\"date\":\"9 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Trent P.\",\"date\":\"13 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Lavada H.\",\"date\":\"20 oktyabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Savanah R.\",\"date\":\"26 mart 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Ariane B.\",\"date\":\"13 avgust 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Faustino B.\",\"date\":\"20 noyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Ambrose T.\",\"date\":\"22 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Jolie L.\",\"date\":\"5 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Gracie T.\",\"date\":\"22 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1013,\"user\":\"Lillie D.\",\"date\":\"13 may 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1014,\"user\":\"Lionel L.\",\"date\":\"3 dekabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":81,\"nomi\":\"Samsung Galaxy Buds2 UC\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"LG\",\"rating\":4.4,\"reviewsCount\":11,\"ordersCount\":304,\"oldPrice\":169014,\"newPrice\":140281,\"discount\":17,\"tags\":[\"Super Narx\",\"Hit\"],\"colors\":[\"#1E3A8A\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.9\",\"reviews\":1155},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=811\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=812\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Zamonaviy dizayn\",\"Hamyonbop narx\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Bo F.\",\"date\":\"15 sentyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Octavia N.\",\"date\":\"19 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Leora B.\",\"date\":\"1 yanvar 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Vinnie L.\",\"date\":\"20 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Maria F.\",\"date\":\"9 yanvar 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Elfrieda S.\",\"date\":\"19 sentyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Lavern B.\",\"date\":\"3 aprel 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Nels G.\",\"date\":\"11 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Daija W.\",\"date\":\"8 sentyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Wilber S.\",\"date\":\"2 noyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Deondre R.\",\"date\":\"25 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":82,\"nomi\":\"Changyutgich Artel VCC PR\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"Nike\",\"rating\":4.6,\"reviewsCount\":14,\"ordersCount\":4084,\"oldPrice\":540663,\"newPrice\":346024,\"discount\":36,\"tags\":[\"Chegirma\"],\"colors\":[\"#22C55E\",\"#808080\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.6\",\"reviews\":895},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=821\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=822\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Yuqori sifatli material\",\"1 yil kafolat\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Denis H.\",\"date\":\"9 sentyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Danial K.\",\"date\":\"27 dekabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Shaniya B.\",\"date\":\"8 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Karson W.\",\"date\":\"22 dekabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"River F.\",\"date\":\"21 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Breanne A.\",\"date\":\"2 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Jules K.\",\"date\":\"5 iyun 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1008,\"user\":\"Vernon R.\",\"date\":\"5 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1009,\"user\":\"Alfonso F.\",\"date\":\"27 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Krystina T.\",\"date\":\"3 dekabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Xzavier W.\",\"date\":\"16 mart 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Melvin V.\",\"date\":\"14 avgust 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1013,\"user\":\"Vern R.\",\"date\":\"25 dekabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1014,\"user\":\"Millie B.\",\"date\":\"10 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":83,\"nomi\":\"iPhone 15 Pro Max HX\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Artel\",\"rating\":4.8,\"reviewsCount\":6,\"ordersCount\":3566,\"oldPrice\":4844390,\"newPrice\":4359951,\"discount\":10,\"tags\":[\"Tavsiya\"],\"colors\":[\"#0000FF\",\"#1E3A8A\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"4.5\",\"reviews\":2031},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=831\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=832\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Zamonaviy dizayn\",\"Yuqori sifatli material\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Maddison G.\",\"date\":\"6 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Vivien B.\",\"date\":\"12 iyul 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Alexandrea S.\",\"date\":\"17 dekabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Joesph K.\",\"date\":\"23 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Arvel J.\",\"date\":\"4 dekabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Virgie S.\",\"date\":\"12 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":84,\"nomi\":\"iPhone 15 Pro Max FS\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Samsung\",\"rating\":4.7,\"reviewsCount\":9,\"ordersCount\":2722,\"oldPrice\":280247,\"newPrice\":224197,\"discount\":20,\"tags\":[\"Top\",\"Arzon\"],\"colors\":[\"#0000FF\",\"#FF0000\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"4.8\",\"reviews\":2584},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=841\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=842\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=843\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=844\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Tezkor yetkazib berish\",\"Hamyonbop narx\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Adelle T.\",\"date\":\"23 aprel 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Janet R.\",\"date\":\"5 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Janie K.\",\"date\":\"14 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Jerald O.\",\"date\":\"4 iyun 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Dixie C.\",\"date\":\"22 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Nelda A.\",\"date\":\"25 yanvar 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Ariel L.\",\"date\":\"18 iyul 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Adolph B.\",\"date\":\"14 avgust 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Jaylin G.\",\"date\":\"12 aprel 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":85,\"nomi\":\"Redmi Note 13 UI\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Artel\",\"rating\":4.6,\"reviewsCount\":7,\"ordersCount\":3312,\"oldPrice\":2616758,\"newPrice\":2302747,\"discount\":12,\"tags\":[\"Arzon\"],\"colors\":[\"#1E3A8A\",\"#F59E0B\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.7\",\"reviews\":1848},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=851\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=852\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=853\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Ekologik toza\",\"Zamonaviy dizayn\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kaelyn M.\",\"date\":\"10 fevral 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Katrine L.\",\"date\":\"6 sentyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Dianna F.\",\"date\":\"12 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Jerod A.\",\"date\":\"16 oktyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Victor R.\",\"date\":\"11 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Leslie H.\",\"date\":\"27 sentyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Stephania K.\",\"date\":\"11 iyul 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":86,\"nomi\":\"Robot changyutgich Xiaomi E10 WY\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"TechHouse\",\"rating\":4,\"reviewsCount\":1,\"ordersCount\":3196,\"oldPrice\":3245089,\"newPrice\":2660972,\"discount\":18,\"tags\":[\"Arzon\",\"Top\"],\"colors\":[\"#22C55E\",\"#808080\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.6\",\"reviews\":1138},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=861\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=862\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=863\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=864\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Ekologik toza\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Dagmar L.\",\"date\":\"6 mart 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":87,\"nomi\":\"Robot changyutgich Xiaomi E10 IG\",\"category\":\"Maishiy texnika / Tozalash / Robotlar\",\"brand\":\"LG\",\"rating\":4.5,\"reviewsCount\":13,\"ordersCount\":3687,\"oldPrice\":2628287,\"newPrice\":1760952,\"discount\":33,\"tags\":[\"Arzon\"],\"colors\":[\"#1E3A8A\",\"#F59E0B\",\"#808080\",\"#000000\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"4.8\",\"reviews\":4216},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=871\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=872\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/cleaning?lock=873\"}],\"shortSpecs\":[{\"key\":\"So'rish kuchi\",\"value\":\"4000 Pa\"},{\"key\":\"Tozalash turi\",\"value\":\"Quruq va nam\"},{\"key\":\"Boshqaruv\",\"value\":\"Wi-Fi orqali\"}],\"fullSpecs\":[{\"group\":\"Asosiy\",\"items\":[{\"label\":\"Brend\",\"value\":\"Xiaomi\"},{\"label\":\"Filter\",\"value\":\"HEPA\"}]},{\"group\":\"Quvvat\",\"items\":[{\"label\":\"Akumulyator\",\"value\":\"5200 mAh\"},{\"label\":\"Ish vaqti\",\"value\":\"150 daqiqa\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Zamonaviy dizayn\",\"Tezkor yetkazib berish\",\"1 yil kafolat\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kaia W.\",\"date\":\"11 aprel 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Omer G.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Fay B.\",\"date\":\"13 mart 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Ayana L.\",\"date\":\"9 avgust 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Lukas P.\",\"date\":\"15 noyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1006,\"user\":\"Cheyenne S.\",\"date\":\"25 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Karlee P.\",\"date\":\"28 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Christelle O.\",\"date\":\"27 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Izaiah M.\",\"date\":\"9 fevral 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Brennon B.\",\"date\":\"8 mart 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1011,\"user\":\"Myron H.\",\"date\":\"11 iyun 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Conor H.\",\"date\":\"16 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Earnestine K.\",\"date\":\"20 sentyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":88,\"nomi\":\"AirPods Pro 2 IA\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Samsung\",\"rating\":4.7,\"reviewsCount\":10,\"ordersCount\":4641,\"oldPrice\":279263,\"newPrice\":242958,\"discount\":13,\"tags\":[\"Hit\",\"Top\"],\"colors\":[\"#FFFFFF\",\"#FF0000\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.6\",\"reviews\":614},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=881\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=882\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Yuqori sifatli material\",\"Original mahsulot\",\"Hamyonbop narx\"],\"reviewsList\":[]},{\"id\":89,\"nomi\":\"Xiaomi 14 JN\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Artel\",\"rating\":4.5,\"reviewsCount\":14,\"ordersCount\":4415,\"oldPrice\":1231014,\"newPrice\":787848,\"discount\":36,\"tags\":[\"Yangi\"],\"colors\":[\"#FF0000\",\"#0000FF\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"4.8\",\"reviews\":4979},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=891\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=892\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"Hamyonbop narx\",\"Zamonaviy dizayn\",\"Tezkor yetkazib berish\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Kathryn R.\",\"date\":\"26 mart 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Tomasa L.\",\"date\":\"8 mart 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Trinity C.\",\"date\":\"19 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Geovany D.\",\"date\":\"9 avgust 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Summer M.\",\"date\":\"2 fevral 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Selena E.\",\"date\":\"22 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Nakia M.\",\"date\":\"6 noyabr 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Zena W.\",\"date\":\"9 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Evans B.\",\"date\":\"19 avgust 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1010,\"user\":\"Eliseo C.\",\"date\":\"26 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1011,\"user\":\"Amie M.\",\"date\":\"18 may 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1012,\"user\":\"Maci R.\",\"date\":\"14 oktyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1013,\"user\":\"Sincere T.\",\"date\":\"13 may 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1014,\"user\":\"Linnea F.\",\"date\":\"25 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"}]},{\"id\":90,\"nomi\":\"Samsung S24 Ultra LD\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Polaris\",\"rating\":4,\"reviewsCount\":1,\"ordersCount\":3941,\"oldPrice\":3333997,\"newPrice\":2000398,\"discount\":40,\"tags\":[\"Yangi\",\"Tavsiya\",\"Top\"],\"colors\":[\"#FFFFFF\",\"#808080\",\"#0000FF\",\"#FF0000\"],\"seller\":{\"name\":\"Samsung Official\",\"rating\":\"5.0\",\"reviews\":3554},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=901\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=902\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=903\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=904\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Zamonaviy dizayn\",\"Tezkor yetkazib berish\",\"1 yil kafolat\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Maximillia A.\",\"date\":\"22 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":91,\"nomi\":\"Sony WH-1000XM5 OS\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Apple\",\"rating\":4.5,\"reviewsCount\":4,\"ordersCount\":4089,\"oldPrice\":3510373,\"newPrice\":2738090,\"discount\":22,\"tags\":[\"Yangi\"],\"colors\":[\"#FF0000\",\"#1E3A8A\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.6\",\"reviews\":4051},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=911\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=912\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=913\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=914\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Hamyonbop narx\",\"Original mahsulot\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Parker M.\",\"date\":\"16 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Van K.\",\"date\":\"19 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Royce R.\",\"date\":\"12 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Jalon W.\",\"date\":\"7 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":92,\"nomi\":\"Xudi Oversize DY\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"LG\",\"rating\":4,\"reviewsCount\":2,\"ordersCount\":189,\"oldPrice\":166756,\"newPrice\":128402,\"discount\":23,\"tags\":[\"Chegirma\",\"Arzon\"],\"colors\":[\"#F59E0B\",\"#FF0000\",\"#808080\",\"#0000FF\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"4.6\",\"reviews\":1574},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=921\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=922\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=923\"},{\"id\":4,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=924\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ushbu mahsulot zamonaviy texnologiyalar asosida ishlab chiqarilgan bo'lib, yuqori sifat va chidamlilikni kafolatlaydi. Kundalik hayotda foydalanish uchun juda qulay.\",\"advantages\":[\"1 yil kafolat\",\"Original mahsulot\",\"Tezkor yetkazib berish\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Lula J.\",\"date\":\"14 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Domenic H.\",\"date\":\"3 noyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":93,\"nomi\":\"Xudi Oversize HU\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Nike\",\"rating\":4.5,\"reviewsCount\":12,\"ordersCount\":4709,\"oldPrice\":1485262,\"newPrice\":920862,\"discount\":38,\"tags\":[\"Chegirma\",\"Super Narx\",\"Hit\"],\"colors\":[\"#FFFFFF\"],\"seller\":{\"name\":\"Xiaomi Official\",\"rating\":\"4.8\",\"reviews\":2077},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=931\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=932\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\",\"Original mahsulot\",\"1 yil kafolat\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Albertha G.\",\"date\":\"19 aprel 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1002,\"user\":\"Heather J.\",\"date\":\"20 sentyabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1003,\"user\":\"Jalen H.\",\"date\":\"15 iyun 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Hipolito F.\",\"date\":\"25 aprel 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Ryder D.\",\"date\":\"16 oktyabr 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Kristofer K.\",\"date\":\"8 may 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1007,\"user\":\"Breanna F.\",\"date\":\"13 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Jaeden W.\",\"date\":\"27 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1009,\"user\":\"Wanda S.\",\"date\":\"7 iyul 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1010,\"user\":\"Gregg H.\",\"date\":\"9 sentyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Madilyn C.\",\"date\":\"19 iyul 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1012,\"user\":\"Gladyce F.\",\"date\":\"21 oktyabr 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]},{\"id\":94,\"nomi\":\"iPhone 15 Pro Max BX\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Samsung\",\"rating\":4.3,\"reviewsCount\":8,\"ordersCount\":3339,\"oldPrice\":265626,\"newPrice\":167344,\"discount\":37,\"tags\":[\"Chegirma\",\"Arzon\",\"Yangi\"],\"colors\":[\"#000000\",\"#FF0000\"],\"seller\":{\"name\":\"Artel Official\",\"rating\":\"4.6\",\"reviews\":171},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=941\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=942\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=943\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"1 yil kafolat\",\"Yuqori sifatli material\",\"Hamyonbop narx\",\"Zamonaviy dizayn\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Alisa J.\",\"date\":\"28 sentyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Manuela Q.\",\"date\":\"21 oktyabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Fay M.\",\"date\":\"19 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Salma B.\",\"date\":\"8 mart 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Elroy B.\",\"date\":\"15 aprel 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Ryley W.\",\"date\":\"28 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Dulce P.\",\"date\":\"1 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Osvaldo W.\",\"date\":\"27 iyul 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":95,\"nomi\":\"Xudi Oversize UW\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"Polaris\",\"rating\":4.5,\"reviewsCount\":13,\"ordersCount\":2935,\"oldPrice\":4886101,\"newPrice\":2931660,\"discount\":40,\"tags\":[\"Tavsiya\",\"Top\"],\"colors\":[\"#808080\",\"#22C55E\"],\"seller\":{\"name\":\"LG Official\",\"rating\":\"5.0\",\"reviews\":4887},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=951\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=952\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=953\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Original mahsulot\",\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\",\"Hamyonbop narx\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Frederique R.\",\"date\":\"28 aprel 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Deborah K.\",\"date\":\"3 avgust 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1003,\"user\":\"Ettie K.\",\"date\":\"22 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1004,\"user\":\"Ophelia M.\",\"date\":\"8 yanvar 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1005,\"user\":\"Tina F.\",\"date\":\"18 aprel 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1006,\"user\":\"Armando K.\",\"date\":\"17 oktyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Terrence N.\",\"date\":\"10 fevral 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1008,\"user\":\"Moriah B.\",\"date\":\"23 yanvar 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Roma R.\",\"date\":\"1 iyun 2024\",\"rating\":5,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Adan S.\",\"date\":\"23 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1011,\"user\":\"Shyanne D.\",\"date\":\"27 aprel 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1012,\"user\":\"Alec H.\",\"date\":\"16 iyul 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1013,\"user\":\"Cornelius S.\",\"date\":\"5 yanvar 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":96,\"nomi\":\"AirPods Pro 2 SB\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Adidas\",\"rating\":4.1,\"reviewsCount\":7,\"ordersCount\":3744,\"oldPrice\":2218961,\"newPrice\":1176049,\"discount\":47,\"tags\":[\"Chegirma\"],\"colors\":[\"#000000\",\"#FFFFFF\",\"#22C55E\",\"#808080\"],\"seller\":{\"name\":\"Sony Official\",\"rating\":\"4.8\",\"reviews\":1077},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=961\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=962\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=963\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Yuqori sifatli material\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Marquise K.\",\"date\":\"18 sentyabr 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Maddison H.\",\"date\":\"14 may 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Leta R.\",\"date\":\"9 iyun 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Carole O.\",\"date\":\"19 aprel 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1005,\"user\":\"Marina L.\",\"date\":\"8 dekabr 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Ursula E.\",\"date\":\"11 dekabr 2024\",\"rating\":5,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1007,\"user\":\"Kaden J.\",\"date\":\"19 fevral 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"}]},{\"id\":97,\"nomi\":\"Simsiz quloqchinlar P9 UJ\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Xiaomi\",\"rating\":4.5,\"reviewsCount\":2,\"ordersCount\":2934,\"oldPrice\":2894249,\"newPrice\":1736549,\"discount\":40,\"tags\":[\"Hit\",\"Tavsiya\",\"Super Narx\"],\"colors\":[\"#0000FF\",\"#808080\"],\"seller\":{\"name\":\"Adidas Official\",\"rating\":\"4.8\",\"reviews\":1890},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=971\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=972\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=973\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Tezkor yetkazib berish\",\"Yuqori sifatli material\",\"Ekologik toza\",\"Original mahsulot\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Maritza G.\",\"date\":\"16 sentyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Nathen R.\",\"date\":\"21 may 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"}]},{\"id\":98,\"nomi\":\"iPhone 15 Pro Max TW\",\"category\":\"Elektronika / Smartfonlar / Apple\",\"brand\":\"Artel\",\"rating\":4.6,\"reviewsCount\":29,\"ordersCount\":3645,\"oldPrice\":3833260,\"newPrice\":2031627,\"discount\":47,\"tags\":[\"Super Narx\",\"Yangi\",\"Arzon\"],\"colors\":[\"#808080\",\"#FF0000\"],\"seller\":{\"name\":\"Huawei Official\",\"rating\":\"4.8\",\"reviews\":1771},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=981\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=982\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/smartphone?lock=983\"}],\"shortSpecs\":[{\"key\":\"Xotira\",\"value\":\"256 GB\"},{\"key\":\"Operativ xotira\",\"value\":\"8 GB\"},{\"key\":\"Ekran\",\"value\":\"6.7 dyuym OLED\"}],\"fullSpecs\":[{\"group\":\"Ekran\",\"items\":[{\"label\":\"Tur\",\"value\":\"AMOLED\"},{\"label\":\"Chastota\",\"value\":\"120 Hz\"}]},{\"group\":\"Kamera\",\"items\":[{\"label\":\"Asosiy\",\"value\":\"50 MP\"},{\"label\":\"Frontal\",\"value\":\"12 MP\"}]}],\"description\":\"Foydalanuvchilar tomonidan yuqori baholangan. Tezkor yetkazib berish va rasmiy kafolat mavjud.\",\"advantages\":[\"Original mahsulot\",\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\",\"Yuqori sifatli material\"],\"reviewsList\":[]},{\"id\":99,\"nomi\":\"Simsiz quloqchinlar P9 QA\",\"category\":\"Elektronika / Audio texnikalar / Quloqchinlar\",\"brand\":\"Nike\",\"rating\":4.4,\"reviewsCount\":10,\"ordersCount\":4698,\"oldPrice\":1354198,\"newPrice\":798976,\"discount\":41,\"tags\":[\"Arzon\",\"Chegirma\",\"Hit\"],\"colors\":[\"#1E3A8A\"],\"seller\":{\"name\":\"TechHouse Official\",\"rating\":\"4.5\",\"reviews\":2822},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=991\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=992\"},{\"id\":3,\"imageUrl\":\"https://loremflickr.com/500/500/headphones?lock=993\"}],\"shortSpecs\":[{\"key\":\"Ulanish turi\",\"value\":\"Simsiz (Bluetooth 5.3)\"},{\"key\":\"Mikrofon\",\"value\":\"Mavjud\"},{\"key\":\"Ishlash vaqti\",\"value\":\"24 soatgacha\"}],\"fullSpecs\":[{\"group\":\"Ulanish\",\"items\":[{\"label\":\"Bluetooth\",\"value\":\"5.3\"},{\"label\":\"Masofa\",\"value\":\"10 m\"}]},{\"group\":\"Batareya\",\"items\":[{\"label\":\"Sig'im\",\"value\":\"400 mAh\"},{\"label\":\"Zaryad vaqti\",\"value\":\"2 soat\"}]}],\"description\":\"Eng so'nggi modeldagi ushbu mahsulot narx va sifat mutanosibligida eng yaxshi tanlovdir. Barcha kerakli funksiyalarga ega.\",\"advantages\":[\"Yuqori sifatli material\",\"Tezkor yetkazib berish\",\"Zamonaviy dizayn\",\"Ekologik toza\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Heloise Z.\",\"date\":\"22 yanvar 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1002,\"user\":\"Elfrieda G.\",\"date\":\"25 aprel 2024\",\"rating\":5,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Eli A.\",\"date\":\"22 noyabr 2024\",\"rating\":5,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1004,\"user\":\"Demetris R.\",\"date\":\"13 iyun 2024\",\"rating\":5,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Harmony H.\",\"date\":\"22 dekabr 2024\",\"rating\":4,\"comment\":\"Ajoyib! Kutganimdan ham yaxshiroq chiqdi.\",\"pros\":\"Hammasi zo'r\",\"cons\":\"Yo'q\"},{\"id\":1006,\"user\":\"Daisy L.\",\"date\":\"22 iyul 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1007,\"user\":\"Luna A.\",\"date\":\"3 oktyabr 2024\",\"rating\":4,\"comment\":\"Yomon emas, ishlashi yaxshi.\",\"pros\":\"Qulay\",\"cons\":\"Rangi biroz boshqacha\"},{\"id\":1008,\"user\":\"Ilene L.\",\"date\":\"18 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1009,\"user\":\"Emelia L.\",\"date\":\"2 fevral 2024\",\"rating\":4,\"comment\":\"Sovg'a uchun oldim, yoqdi.\",\"pros\":\"Upakovka\",\"cons\":\"Yo'q\"},{\"id\":1010,\"user\":\"Theron O.\",\"date\":\"15 mart 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"}]},{\"id\":100,\"nomi\":\"Sportivka Nike RQ\",\"category\":\"Kiyim / Erkaklar kiyimi / Futbolkalar\",\"brand\":\"LG\",\"rating\":4,\"reviewsCount\":5,\"ordersCount\":1793,\"oldPrice\":954147,\"newPrice\":591571,\"discount\":38,\"tags\":[\"Chegirma\",\"Super Narx\",\"Hit\"],\"colors\":[\"#FF0000\",\"#808080\",\"#FFFFFF\"],\"seller\":{\"name\":\"Apple Official\",\"rating\":\"4.9\",\"reviews\":435},\"images\":[{\"id\":1,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=1001\"},{\"id\":2,\"imageUrl\":\"https://loremflickr.com/500/500/clothing?lock=1002\"}],\"shortSpecs\":[{\"key\":\"Material\",\"value\":\"100% Paxta\"},{\"key\":\"Mavsum\",\"value\":\"Yozgi/Bahorgi\"},{\"key\":\"O'lcham\",\"value\":\"S, M, L, XL\"}],\"fullSpecs\":[{\"group\":\"Material\",\"items\":[{\"label\":\"Tarkibi\",\"value\":\"Paxta\"},{\"label\":\"Ishlab chiqarilgan\",\"value\":\"O'zbekiston\"}]}],\"description\":\"Ajoyib dizayn va qulaylikni o'zida mujassam etgan. Sifatli materiallardan tayyorlangan, uzoq muddat xizmat qiladi. Sovg'a uchun ham ajoyib tanlov.\",\"advantages\":[\"Ekologik toza\",\"1 yil kafolat\",\"Yuqori sifatli material\"],\"reviewsList\":[{\"id\":1001,\"user\":\"Clay J.\",\"date\":\"2 may 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1002,\"user\":\"Brigitte B.\",\"date\":\"8 avgust 2024\",\"rating\":4,\"comment\":\"Juda zo'r mahsulot, menga yoqdi!\",\"pros\":\"Sifati, Narxi\",\"cons\":\"Yo'q\"},{\"id\":1003,\"user\":\"Conner L.\",\"date\":\"15 yanvar 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1004,\"user\":\"Jade G.\",\"date\":\"2 may 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"},{\"id\":1005,\"user\":\"Carmelo M.\",\"date\":\"28 oktyabr 2024\",\"rating\":4,\"comment\":\"Narxiga arziydi, tavsiya qilaman.\",\"pros\":\"Dizayni\",\"cons\":\"Yetkazib berish biroz kechikdi\"}]}]"));}),
+"[project]/src/lib/utils.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "cn",
+    ()=>cn
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$clsx$2f$dist$2f$clsx$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/clsx/dist/clsx.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$tailwind$2d$merge$2f$dist$2f$bundle$2d$mjs$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/tailwind-merge/dist/bundle-mjs.mjs [app-client] (ecmascript)");
+;
+;
+function cn(...inputs) {
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$tailwind$2d$merge$2f$dist$2f$bundle$2d$mjs$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["twMerge"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$clsx$2f$dist$2f$clsx$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["clsx"])(inputs));
+}
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/button.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Button",
+    ()=>Button,
+    "buttonVariants",
+    ()=>buttonVariants
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$slot$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-slot/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$class$2d$variance$2d$authority$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/class-variance-authority/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+;
+;
+;
+;
+;
+const buttonVariants = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$class$2d$variance$2d$authority$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cva"])("inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive", {
+    variants: {
+        variant: {
+            default: "bg-primary text-primary-foreground hover:bg-primary/90",
+            destructive: "bg-destructive text-white hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60",
+            outline: "border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50",
+            secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
+            ghost: "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",
+            link: "text-primary underline-offset-4 hover:underline"
+        },
+        size: {
+            default: "h-9 px-4 py-2 has-[>svg]:px-3",
+            sm: "h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5",
+            lg: "h-10 rounded-md px-6 has-[>svg]:px-4",
+            icon: "size-9",
+            "icon-sm": "size-8",
+            "icon-lg": "size-10"
+        }
+    },
+    defaultVariants: {
+        variant: "default",
+        size: "default"
+    }
+});
+function Button({ className, variant = "default", size = "default", asChild = false, ...props }) {
+    const Comp = asChild ? __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$slot$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Slot"] : "button";
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Comp, {
+        "data-slot": "button",
+        "data-variant": variant,
+        "data-size": size,
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])(buttonVariants({
+            variant,
+            size,
+            className
+        })),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/button.jsx",
+        lineNumber: 49,
+        columnNumber: 5
+    }, this);
+}
+_c = Button;
+;
+var _c;
+__turbopack_context__.k.register(_c, "Button");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/card.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Card",
+    ()=>Card,
+    "CardAction",
+    ()=>CardAction,
+    "CardContent",
+    ()=>CardContent,
+    "CardDescription",
+    ()=>CardDescription,
+    "CardFooter",
+    ()=>CardFooter,
+    "CardHeader",
+    ()=>CardHeader,
+    "CardTitle",
+    ()=>CardTitle
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+;
+;
+;
+function Card({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 10,
+        columnNumber: 5
+    }, this);
+}
+_c = Card;
+function CardHeader({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card-header",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 25,
+        columnNumber: 5
+    }, this);
+}
+_c1 = CardHeader;
+function CardTitle({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card-title",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("leading-none font-semibold", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 40,
+        columnNumber: 5
+    }, this);
+}
+_c2 = CardTitle;
+function CardDescription({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card-description",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("text-muted-foreground text-sm", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 52,
+        columnNumber: 5
+    }, this);
+}
+_c3 = CardDescription;
+function CardAction({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card-action",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("col-start-2 row-span-2 row-start-1 self-start justify-self-end", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 64,
+        columnNumber: 5
+    }, this);
+}
+_c4 = CardAction;
+function CardContent({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card-content",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("px-6", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 78,
+        columnNumber: 11
+    }, this);
+}
+_c5 = CardContent;
+function CardFooter({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "card-footer",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("flex items-center px-6 [.border-t]:pt-6", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/card.jsx",
+        lineNumber: 86,
+        columnNumber: 5
+    }, this);
+}
+_c6 = CardFooter;
+;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6;
+__turbopack_context__.k.register(_c, "Card");
+__turbopack_context__.k.register(_c1, "CardHeader");
+__turbopack_context__.k.register(_c2, "CardTitle");
+__turbopack_context__.k.register(_c3, "CardDescription");
+__turbopack_context__.k.register(_c4, "CardAction");
+__turbopack_context__.k.register(_c5, "CardContent");
+__turbopack_context__.k.register(_c6, "CardFooter");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/separator.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Separator",
+    ()=>Separator
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$separator$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-separator/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+function Separator({ className, orientation = "horizontal", decorative = true, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$separator$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "separator",
+        decorative: decorative,
+        orientation: orientation,
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-border shrink-0 data-[orientation=horizontal]:h-px data-[orientation=horizontal]:w-full data-[orientation=vertical]:h-full data-[orientation=vertical]:w-px", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/separator.jsx",
+        lineNumber: 15,
+        columnNumber: 5
+    }, this);
+}
+_c = Separator;
+;
+var _c;
+__turbopack_context__.k.register(_c, "Separator");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/input.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Input",
+    ()=>Input
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+;
+;
+;
+function Input({ className, type, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+        type: type,
+        "data-slot": "input",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm", "focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]", "aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/input.jsx",
+        lineNumber: 11,
+        columnNumber: 5
+    }, this);
+}
+_c = Input;
+;
+var _c;
+__turbopack_context__.k.register(_c, "Input");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/dropdown-menu.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "DropdownMenu",
+    ()=>DropdownMenu,
+    "DropdownMenuCheckboxItem",
+    ()=>DropdownMenuCheckboxItem,
+    "DropdownMenuContent",
+    ()=>DropdownMenuContent,
+    "DropdownMenuGroup",
+    ()=>DropdownMenuGroup,
+    "DropdownMenuItem",
+    ()=>DropdownMenuItem,
+    "DropdownMenuLabel",
+    ()=>DropdownMenuLabel,
+    "DropdownMenuPortal",
+    ()=>DropdownMenuPortal,
+    "DropdownMenuRadioGroup",
+    ()=>DropdownMenuRadioGroup,
+    "DropdownMenuRadioItem",
+    ()=>DropdownMenuRadioItem,
+    "DropdownMenuSeparator",
+    ()=>DropdownMenuSeparator,
+    "DropdownMenuShortcut",
+    ()=>DropdownMenuShortcut,
+    "DropdownMenuSub",
+    ()=>DropdownMenuSub,
+    "DropdownMenuSubContent",
+    ()=>DropdownMenuSubContent,
+    "DropdownMenuSubTrigger",
+    ()=>DropdownMenuSubTrigger,
+    "DropdownMenuTrigger",
+    ()=>DropdownMenuTrigger
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-dropdown-menu/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckIcon$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/check.js [app-client] (ecmascript) <export default as CheckIcon>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$right$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronRightIcon$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/chevron-right.js [app-client] (ecmascript) <export default as ChevronRightIcon>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CircleIcon$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/circle.js [app-client] (ecmascript) <export default as CircleIcon>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+;
+function DropdownMenu({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "dropdown-menu",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 12,
+        columnNumber: 10
+    }, this);
+}
+_c = DropdownMenu;
+function DropdownMenuPortal({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Portal"], {
+        "data-slot": "dropdown-menu-portal",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 18,
+        columnNumber: 11
+    }, this);
+}
+_c1 = DropdownMenuPortal;
+function DropdownMenuTrigger({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Trigger"], {
+        "data-slot": "dropdown-menu-trigger",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 24,
+        columnNumber: 11
+    }, this);
+}
+_c2 = DropdownMenuTrigger;
+function DropdownMenuContent({ className, sideOffset = 4, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Portal"], {
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Content"], {
+            "data-slot": "dropdown-menu-content",
+            sideOffset: sideOffset,
+            className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-popover text-popover-foreground data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2 z-50 max-h-(--radix-dropdown-menu-content-available-height) min-w-[8rem] origin-(--radix-dropdown-menu-content-transform-origin) overflow-x-hidden overflow-y-auto rounded-md border p-1 shadow-md", className),
+            ...props
+        }, void 0, false, {
+            fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+            lineNumber: 34,
+            columnNumber: 7
+        }, this)
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 33,
+        columnNumber: 5
+    }, this);
+}
+_c3 = DropdownMenuContent;
+function DropdownMenuGroup({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Group"], {
+        "data-slot": "dropdown-menu-group",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 49,
+        columnNumber: 11
+    }, this);
+}
+_c4 = DropdownMenuGroup;
+function DropdownMenuItem({ className, inset, variant = "default", ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Item"], {
+        "data-slot": "dropdown-menu-item",
+        "data-inset": inset,
+        "data-variant": variant,
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("focus:bg-accent focus:text-accent-foreground data-[variant=destructive]:text-destructive data-[variant=destructive]:focus:bg-destructive/10 dark:data-[variant=destructive]:focus:bg-destructive/20 data-[variant=destructive]:focus:text-destructive data-[variant=destructive]:*:[svg]:!text-destructive [&_svg:not([class*='text-'])]:text-muted-foreground relative flex cursor-default items-center gap-2 rounded-sm px-2 py-1.5 text-sm outline-hidden select-none data-[disabled]:pointer-events-none data-[disabled]:opacity-50 data-[inset]:pl-8 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 59,
+        columnNumber: 5
+    }, this);
+}
+_c5 = DropdownMenuItem;
+function DropdownMenuCheckboxItem({ className, children, checked, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["CheckboxItem"], {
+        "data-slot": "dropdown-menu-checkbox-item",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("focus:bg-accent focus:text-accent-foreground relative flex cursor-default items-center gap-2 rounded-sm py-1.5 pr-2 pl-8 text-sm outline-hidden select-none data-[disabled]:pointer-events-none data-[disabled]:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4", className),
+        checked: checked,
+        ...props,
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                className: "pointer-events-none absolute left-2 flex size-3.5 items-center justify-center",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ItemIndicator"], {
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckIcon$3e$__["CheckIcon"], {
+                        className: "size-4"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                        lineNumber: 89,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                    lineNumber: 88,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                lineNumber: 86,
+                columnNumber: 7
+            }, this),
+            children
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 78,
+        columnNumber: 5
+    }, this);
+}
+_c6 = DropdownMenuCheckboxItem;
+function DropdownMenuRadioGroup({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RadioGroup"], {
+        "data-slot": "dropdown-menu-radio-group",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 100,
+        columnNumber: 11
+    }, this);
+}
+_c7 = DropdownMenuRadioGroup;
+function DropdownMenuRadioItem({ className, children, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RadioItem"], {
+        "data-slot": "dropdown-menu-radio-item",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("focus:bg-accent focus:text-accent-foreground relative flex cursor-default items-center gap-2 rounded-sm py-1.5 pr-2 pl-8 text-sm outline-hidden select-none data-[disabled]:pointer-events-none data-[disabled]:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4", className),
+        ...props,
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                className: "pointer-events-none absolute left-2 flex size-3.5 items-center justify-center",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ItemIndicator"], {
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CircleIcon$3e$__["CircleIcon"], {
+                        className: "size-2 fill-current"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                        lineNumber: 119,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                    lineNumber: 118,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                lineNumber: 116,
+                columnNumber: 7
+            }, this),
+            children
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 109,
+        columnNumber: 5
+    }, this);
+}
+_c8 = DropdownMenuRadioItem;
+function DropdownMenuLabel({ className, inset, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Label"], {
+        "data-slot": "dropdown-menu-label",
+        "data-inset": inset,
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("px-2 py-1.5 text-sm font-medium data-[inset]:pl-8", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 133,
+        columnNumber: 5
+    }, this);
+}
+_c9 = DropdownMenuLabel;
+function DropdownMenuSeparator({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Separator"], {
+        "data-slot": "dropdown-menu-separator",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-border -mx-1 my-1 h-px", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 146,
+        columnNumber: 5
+    }, this);
+}
+_c10 = DropdownMenuSeparator;
+function DropdownMenuShortcut({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+        "data-slot": "dropdown-menu-shortcut",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("text-muted-foreground ml-auto text-xs tracking-widest", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 158,
+        columnNumber: 5
+    }, this);
+}
+_c11 = DropdownMenuShortcut;
+function DropdownMenuSub({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Sub"], {
+        "data-slot": "dropdown-menu-sub",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 168,
+        columnNumber: 10
+    }, this);
+}
+_c12 = DropdownMenuSub;
+function DropdownMenuSubTrigger({ className, inset, children, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SubTrigger"], {
+        "data-slot": "dropdown-menu-sub-trigger",
+        "data-inset": inset,
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("focus:bg-accent focus:text-accent-foreground data-[state=open]:bg-accent data-[state=open]:text-accent-foreground [&_svg:not([class*='text-'])]:text-muted-foreground flex cursor-default items-center gap-2 rounded-sm px-2 py-1.5 text-sm outline-hidden select-none data-[inset]:pl-8 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4", className),
+        ...props,
+        children: [
+            children,
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$right$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronRightIcon$3e$__["ChevronRightIcon"], {
+                className: "ml-auto size-4"
+            }, void 0, false, {
+                fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+                lineNumber: 187,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 178,
+        columnNumber: 5
+    }, this);
+}
+_c13 = DropdownMenuSubTrigger;
+function DropdownMenuSubContent({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dropdown$2d$menu$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SubContent"], {
+        "data-slot": "dropdown-menu-sub-content",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-popover text-popover-foreground data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2 z-50 min-w-[8rem] origin-(--radix-dropdown-menu-content-transform-origin) overflow-hidden rounded-md border p-1 shadow-lg", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dropdown-menu.jsx",
+        lineNumber: 197,
+        columnNumber: 5
+    }, this);
+}
+_c14 = DropdownMenuSubContent;
+;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14;
+__turbopack_context__.k.register(_c, "DropdownMenu");
+__turbopack_context__.k.register(_c1, "DropdownMenuPortal");
+__turbopack_context__.k.register(_c2, "DropdownMenuTrigger");
+__turbopack_context__.k.register(_c3, "DropdownMenuContent");
+__turbopack_context__.k.register(_c4, "DropdownMenuGroup");
+__turbopack_context__.k.register(_c5, "DropdownMenuItem");
+__turbopack_context__.k.register(_c6, "DropdownMenuCheckboxItem");
+__turbopack_context__.k.register(_c7, "DropdownMenuRadioGroup");
+__turbopack_context__.k.register(_c8, "DropdownMenuRadioItem");
+__turbopack_context__.k.register(_c9, "DropdownMenuLabel");
+__turbopack_context__.k.register(_c10, "DropdownMenuSeparator");
+__turbopack_context__.k.register(_c11, "DropdownMenuShortcut");
+__turbopack_context__.k.register(_c12, "DropdownMenuSub");
+__turbopack_context__.k.register(_c13, "DropdownMenuSubTrigger");
+__turbopack_context__.k.register(_c14, "DropdownMenuSubContent");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/avatar.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Avatar",
+    ()=>Avatar,
+    "AvatarFallback",
+    ()=>AvatarFallback,
+    "AvatarImage",
+    ()=>AvatarImage
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$avatar$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-avatar/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+function Avatar({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$avatar$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "avatar",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("relative flex size-8 shrink-0 overflow-hidden rounded-full", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/avatar.jsx",
+        lineNumber: 13,
+        columnNumber: 5
+    }, this);
+}
+_c = Avatar;
+function AvatarImage({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$avatar$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Image"], {
+        "data-slot": "avatar-image",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("aspect-square size-full", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/avatar.jsx",
+        lineNumber: 25,
+        columnNumber: 5
+    }, this);
+}
+_c1 = AvatarImage;
+function AvatarFallback({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$avatar$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fallback"], {
+        "data-slot": "avatar-fallback",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-muted flex size-full items-center justify-center rounded-full", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/avatar.jsx",
+        lineNumber: 37,
+        columnNumber: 5
+    }, this);
+}
+_c2 = AvatarFallback;
+;
+var _c, _c1, _c2;
+__turbopack_context__.k.register(_c, "Avatar");
+__turbopack_context__.k.register(_c1, "AvatarImage");
+__turbopack_context__.k.register(_c2, "AvatarFallback");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/sheet.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Sheet",
+    ()=>Sheet,
+    "SheetClose",
+    ()=>SheetClose,
+    "SheetContent",
+    ()=>SheetContent,
+    "SheetDescription",
+    ()=>SheetDescription,
+    "SheetFooter",
+    ()=>SheetFooter,
+    "SheetHeader",
+    ()=>SheetHeader,
+    "SheetTitle",
+    ()=>SheetTitle,
+    "SheetTrigger",
+    ()=>SheetTrigger
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-dialog/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__XIcon$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-client] (ecmascript) <export default as XIcon>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+;
+function Sheet({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "sheet",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 12,
+        columnNumber: 10
+    }, this);
+}
+_c = Sheet;
+function SheetTrigger({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Trigger"], {
+        "data-slot": "sheet-trigger",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 18,
+        columnNumber: 10
+    }, this);
+}
+_c1 = SheetTrigger;
+function SheetClose({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Close"], {
+        "data-slot": "sheet-close",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 24,
+        columnNumber: 10
+    }, this);
+}
+_c2 = SheetClose;
+function SheetPortal({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Portal"], {
+        "data-slot": "sheet-portal",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 30,
+        columnNumber: 10
+    }, this);
+}
+_c3 = SheetPortal;
+function SheetOverlay({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Overlay"], {
+        "data-slot": "sheet-overlay",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 bg-black/50", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 38,
+        columnNumber: 5
+    }, this);
+}
+_c4 = SheetOverlay;
+function SheetContent({ className, children, side = "right", ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(SheetPortal, {
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(SheetOverlay, {}, void 0, false, {
+                fileName: "[project]/src/components/ui/sheet.jsx",
+                lineNumber: 56,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Content"], {
+                "data-slot": "sheet-content",
+                className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-background data-[state=open]:animate-in data-[state=closed]:animate-out fixed z-50 flex flex-col gap-4 shadow-lg transition ease-in-out data-[state=closed]:duration-300 data-[state=open]:duration-500", side === "right" && "data-[state=closed]:slide-out-to-right data-[state=open]:slide-in-from-right inset-y-0 right-0 h-full w-3/4 border-l sm:max-w-sm", side === "left" && "data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left inset-y-0 left-0 h-full w-3/4 border-r sm:max-w-sm", side === "top" && "data-[state=closed]:slide-out-to-top data-[state=open]:slide-in-from-top inset-x-0 top-0 h-auto border-b", side === "bottom" && "data-[state=closed]:slide-out-to-bottom data-[state=open]:slide-in-from-bottom inset-x-0 bottom-0 h-auto border-t", className),
+                ...props,
+                children: [
+                    children,
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Close"], {
+                        className: "ring-offset-background focus:ring-ring data-[state=open]:bg-secondary absolute top-4 right-4 rounded-xs opacity-70 transition-opacity hover:opacity-100 focus:ring-2 focus:ring-offset-2 focus:outline-hidden disabled:pointer-events-none",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__XIcon$3e$__["XIcon"], {
+                                className: "size-4"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/ui/sheet.jsx",
+                                lineNumber: 75,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "sr-only",
+                                children: "Close"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/ui/sheet.jsx",
+                                lineNumber: 76,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/ui/sheet.jsx",
+                        lineNumber: 73,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/ui/sheet.jsx",
+                lineNumber: 57,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 55,
+        columnNumber: 5
+    }, this);
+}
+_c5 = SheetContent;
+function SheetHeader({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "sheet-header",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("flex flex-col gap-1.5 p-4", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 88,
+        columnNumber: 5
+    }, this);
+}
+_c6 = SheetHeader;
+function SheetFooter({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "sheet-footer",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("mt-auto flex flex-col gap-2 p-4", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 100,
+        columnNumber: 5
+    }, this);
+}
+_c7 = SheetFooter;
+function SheetTitle({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Title"], {
+        "data-slot": "sheet-title",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("text-foreground font-semibold", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 112,
+        columnNumber: 5
+    }, this);
+}
+_c8 = SheetTitle;
+function SheetDescription({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Description"], {
+        "data-slot": "sheet-description",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("text-muted-foreground text-sm", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/sheet.jsx",
+        lineNumber: 124,
+        columnNumber: 5
+    }, this);
+}
+_c9 = SheetDescription;
+;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9;
+__turbopack_context__.k.register(_c, "Sheet");
+__turbopack_context__.k.register(_c1, "SheetTrigger");
+__turbopack_context__.k.register(_c2, "SheetClose");
+__turbopack_context__.k.register(_c3, "SheetPortal");
+__turbopack_context__.k.register(_c4, "SheetOverlay");
+__turbopack_context__.k.register(_c5, "SheetContent");
+__turbopack_context__.k.register(_c6, "SheetHeader");
+__turbopack_context__.k.register(_c7, "SheetFooter");
+__turbopack_context__.k.register(_c8, "SheetTitle");
+__turbopack_context__.k.register(_c9, "SheetDescription");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/auth/AuthModal.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>AuthModal
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$phone$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Phone$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/phone.js [app-client] (ecmascript) <export default as Phone>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Lock$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/lock.js [app-client] (ecmascript) <export default as Lock>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$loader$2d$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Loader2$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/loader-circle.js [app-client] (ecmascript) <export default as Loader2>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-client] (ecmascript) <export default as X>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/AuthContext.js [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+'use client';
+;
+;
+;
+function AuthModal({ isOpen, onClose }) {
+    _s();
+    const { login } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAuth"])();
+    const [step, setStep] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(1);
+    const [phone, setPhone] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('+998');
+    const [code, setCode] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
+    const [timer, setTimer] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(120);
+    const [error, setError] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
+    const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "AuthModal.useEffect": ()=>{
+            if (!isOpen) {
+                setStep(1);
+                setPhone('+998');
+                setCode('');
+                setError('');
+            }
+        }
+    }["AuthModal.useEffect"], [
+        isOpen
+    ]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "AuthModal.useEffect": ()=>{
+            let interval;
+            if (step === 2 && timer > 0) {
+                interval = setInterval({
+                    "AuthModal.useEffect": ()=>setTimer({
+                            "AuthModal.useEffect": (prev)=>prev - 1
+                        }["AuthModal.useEffect"])
+                }["AuthModal.useEffect"], 1000);
+            }
+            return ({
+                "AuthModal.useEffect": ()=>clearInterval(interval)
+            })["AuthModal.useEffect"];
+        }
+    }["AuthModal.useEffect"], [
+        step,
+        timer
+    ]);
+    const formatTime = (seconds)=>{
+        const m = Math.floor(seconds / 60);
+        const s = seconds % 60;
+        return `${m}:${s < 10 ? '0' : ''}${s}`;
+    };
+    const handlePhoneSubmit = (e)=>{
+        e.preventDefault();
+        if (phone.length < 13) {
+            setError("To'g'ri raqam kiriting");
+            return;
+        }
+        setLoading(true);
+        setTimeout(()=>{
+            setLoading(false);
+            setStep(2);
+            setTimer(120);
+            setError('');
+        }, 1000);
+    };
+    const handleCodeSubmit = (e)=>{
+        e.preventDefault();
+        if (code === '123456') {
+            login(phone);
+            onClose();
+            setStep(1);
+            setCode('');
+            setPhone('+998');
+        } else {
+            setError("Kod noto'g'ri! Qaytadan urinib ko'ring.");
+        }
+    };
+    if (!isOpen) return null;
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "fixed inset-0 z-50 flex items-center justify-center bg-black/50",
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "w-full max-w-sm bg-white rounded-2xl shadow-lg p-8",
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "flex items-center justify-between mb-6",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                            className: "text-2xl font-bold text-gray-900",
+                            children: step === 1 ? 'Kirish' : 'Kodni kiriting'
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 73,
+                            columnNumber: 6
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                            onClick: onClose,
+                            className: "text-gray-400 hover:text-gray-600",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
+                                className: "h-6 w-6"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/auth/AuthModal.js",
+                                lineNumber: 80,
+                                columnNumber: 7
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 76,
+                            columnNumber: 6
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/auth/AuthModal.js",
+                    lineNumber: 72,
+                    columnNumber: 5
+                }, this),
+                step === 1 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
+                    onSubmit: handlePhoneSubmit,
+                    className: "space-y-4",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-sm text-gray-600 text-center",
+                            children: "Telefon raqamingizni kiriting va biz tasdiqlash kodini yuboramiz."
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 86,
+                            columnNumber: 7
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "relative",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$phone$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Phone$3e$__["Phone"], {
+                                    className: "absolute left-3 top-3.5 h-5 w-5 text-gray-400"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/auth/AuthModal.js",
+                                    lineNumber: 90,
+                                    columnNumber: 8
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                    type: "tel",
+                                    value: phone,
+                                    onChange: (e)=>setPhone(e.target.value),
+                                    className: "w-full pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500",
+                                    placeholder: "+998 90 123 45 67"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/auth/AuthModal.js",
+                                    lineNumber: 91,
+                                    columnNumber: 8
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 89,
+                            columnNumber: 7
+                        }, this),
+                        error && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-red-500 text-sm text-center",
+                            children: error
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 100,
+                            columnNumber: 8
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                            type: "submit",
+                            disabled: loading,
+                            className: "w-full py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition disabled:opacity-50 flex items-center justify-center gap-2",
+                            children: [
+                                loading && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$loader$2d$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Loader2$3e$__["Loader2"], {
+                                    className: "h-4 w-4 animate-spin"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/auth/AuthModal.js",
+                                    lineNumber: 107,
+                                    columnNumber: 20
+                                }, this),
+                                "Kod olish"
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 102,
+                            columnNumber: 7
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/auth/AuthModal.js",
+                    lineNumber: 85,
+                    columnNumber: 6
+                }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
+                    onSubmit: handleCodeSubmit,
+                    className: "space-y-4",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-sm text-gray-600 text-center",
+                            children: [
+                                phone,
+                                " raqamiga SMS kod yuborildi."
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 113,
+                            columnNumber: 7
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "relative",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Lock$3e$__["Lock"], {
+                                    className: "absolute left-3 top-3.5 h-5 w-5 text-gray-400"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/auth/AuthModal.js",
+                                    lineNumber: 117,
+                                    columnNumber: 8
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                    type: "text",
+                                    value: code,
+                                    onChange: (e)=>setCode(e.target.value),
+                                    className: "w-full pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-center tracking-widest",
+                                    placeholder: "000000",
+                                    maxLength: 6
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/auth/AuthModal.js",
+                                    lineNumber: 118,
+                                    columnNumber: 8
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 116,
+                            columnNumber: 7
+                        }, this),
+                        error && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-red-500 text-sm text-center",
+                            children: error
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 128,
+                            columnNumber: 8
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "text-center text-sm text-gray-600",
+                            children: [
+                                "Qolgan vaqt:",
+                                ' ',
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "font-bold text-orange-600",
+                                    children: formatTime(timer)
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/auth/AuthModal.js",
+                                    lineNumber: 132,
+                                    columnNumber: 8
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 130,
+                            columnNumber: 7
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                            type: "submit",
+                            className: "w-full py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition",
+                            children: "Tasdiqlash"
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 136,
+                            columnNumber: 7
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                            type: "button",
+                            onClick: ()=>setStep(1),
+                            className: "w-full py-2 text-blue-600 hover:text-blue-700 font-medium transition",
+                            children: "Raqamni o'zgartirish"
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/auth/AuthModal.js",
+                            lineNumber: 142,
+                            columnNumber: 7
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/auth/AuthModal.js",
+                    lineNumber: 112,
+                    columnNumber: 6
+                }, this)
+            ]
+        }, void 0, true, {
+            fileName: "[project]/src/components/auth/AuthModal.js",
+            lineNumber: 71,
+            columnNumber: 4
+        }, this)
+    }, void 0, false, {
+        fileName: "[project]/src/components/auth/AuthModal.js",
+        lineNumber: 70,
+        columnNumber: 3
+    }, this);
+}
+_s(AuthModal, "+a7+52KQ2smpwS9piD1ppIusK8A=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAuth"]
+    ];
+});
+_c = AuthModal;
+var _c;
+__turbopack_context__.k.register(_c, "AuthModal");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/home/Navbar.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Search$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/search.js [app-client] (ecmascript) <export default as Search>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shopping$2d$cart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ShoppingCart$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/shopping-cart.js [app-client] (ecmascript) <export default as ShoppingCart>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/menu.js [app-client] (ecmascript) <export default as Menu>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$user$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__User$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/user.js [app-client] (ecmascript) <export default as User>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$package$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Package$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/package.js [app-client] (ecmascript) <export default as Package>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$log$2d$out$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LogOut$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/log-out.js [app-client] (ecmascript) <export default as LogOut>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-client] (ecmascript) <export default as X>");
+// Contextlarni ulaymiz
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/AuthContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/CartContext.js [app-client] (ecmascript)");
+// Komponentlar
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/button.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/input.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/dropdown-menu.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/avatar.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$sheet$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/sheet.jsx [app-client] (ecmascript)"); // Mobile menu uchun qulayroq
+// Biz yaratgan Modal
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$auth$2f$AuthModal$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/auth/AuthModal.js [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+// src/components/home/Navbar.js
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const categories = [
+    'Oshxona jihozlari',
+    'Tozalash texnikasi',
+    'Isitish va sovutish',
+    'Shaxsiy parvarish',
+    'Aqlli uy',
+    'Aksiyalar'
+];
+const Navbar = ()=>{
+    _s();
+    // 1. Global Contextlardan ma'lumot olamiz
+    const { isLoggedIn, user, logout } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAuth"])();
+    const { totalCartCount } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCart"])();
+    // 2. Lokal statelar
+    const [isAuthModalOpen, setAuthModalOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$auth$2f$AuthModal$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                isOpen: isAuthModalOpen,
+                onClose: ()=>setAuthModalOpen(false),
+                onLoginSuccess: ()=>setAuthModalOpen(false)
+            }, void 0, false, {
+                fileName: "[project]/src/components/home/Navbar.js",
+                lineNumber: 59,
+                columnNumber: 4
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("header", {
+                className: "sticky top-0 z-50 w-full border-b bg-white shadow-sm",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "container mx-auto px-4 h-20 flex items-center justify-between gap-4",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "flex items-center gap-6",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/",
+                                        className: "flex-shrink-0",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                            src: "/logo.png",
+                                            alt: "Tech House Logo",
+                                            width: 150,
+                                            height: 50,
+                                            className: "object-contain h-12 w-auto",
+                                            priority: true
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 70,
+                                            columnNumber: 8
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 69,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "hidden md:block",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenu"], {
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuTrigger"], {
+                                                    asChild: true,
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                                        variant: "outline",
+                                                        className: "bg-blue-900 text-white hover:bg-blue-800 hover:text-white border-none flex items-center gap-2",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__["Menu"], {
+                                                                className: "h-4 w-4"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                                lineNumber: 87,
+                                                                columnNumber: 11
+                                                            }, ("TURBOPACK compile-time value", void 0)),
+                                                            "Katalog"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 83,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                    lineNumber: 82,
+                                                    columnNumber: 9
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuContent"], {
+                                                    className: "w-56 mt-2",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuLabel"], {
+                                                            children: "Bo'limlar"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/home/Navbar.js",
+                                                            lineNumber: 92,
+                                                            columnNumber: 10
+                                                        }, ("TURBOPACK compile-time value", void 0)),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuSeparator"], {}, void 0, false, {
+                                                            fileName: "[project]/src/components/home/Navbar.js",
+                                                            lineNumber: 93,
+                                                            columnNumber: 10
+                                                        }, ("TURBOPACK compile-time value", void 0)),
+                                                        categories.map((cat, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuItem"], {
+                                                                className: "cursor-pointer",
+                                                                children: cat
+                                                            }, index, false, {
+                                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                                lineNumber: 95,
+                                                                columnNumber: 11
+                                                            }, ("TURBOPACK compile-time value", void 0)))
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                    lineNumber: 91,
+                                                    columnNumber: 9
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 81,
+                                            columnNumber: 8
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 80,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/home/Navbar.js",
+                                lineNumber: 68,
+                                columnNumber: 6
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "hidden md:flex flex-1 max-w-lg items-center relative",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Input"], {
+                                        type: "text",
+                                        placeholder: "Mahsulotlarni qidirish...",
+                                        className: "pr-10 border-blue-200 focus-visible:ring-blue-900 rounded-r-none"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 106,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                        className: "rounded-l-none bg-blue-100 text-blue-900 hover:bg-blue-200 border border-l-0 border-blue-200",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Search$3e$__["Search"], {
+                                            className: "h-5 w-5"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 112,
+                                            columnNumber: 8
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 111,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/home/Navbar.js",
+                                lineNumber: 105,
+                                columnNumber: 6
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "hidden md:flex items-center gap-6",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/orders",
+                                        className: "flex flex-col items-center text-gray-600 hover:text-blue-900 transition text-xs font-medium",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$package$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Package$3e$__["Package"], {
+                                                className: "h-6 w-6 mb-1"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 123,
+                                                columnNumber: 8
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            "Buyurtmalar"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 119,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/cart",
+                                        className: "flex flex-col items-center text-gray-600 hover:text-blue-900 transition text-xs font-medium relative",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "relative",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shopping$2d$cart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ShoppingCart$3e$__["ShoppingCart"], {
+                                                        className: "h-6 w-6 mb-1"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 133,
+                                                        columnNumber: 9
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    totalCartCount > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "absolute -top-1 -right-2 bg-orange-500 text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full",
+                                                        children: totalCartCount
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 135,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 132,
+                                                columnNumber: 8
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            "Savat"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 128,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    isLoggedIn ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenu"], {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuTrigger"], {
+                                                asChild: true,
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex flex-col items-center cursor-pointer",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Avatar"], {
+                                                            className: "h-8 w-8 border-2 border-blue-900",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AvatarImage"], {
+                                                                    src: "https://github.com/shadcn.png"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                                    lineNumber: 149,
+                                                                    columnNumber: 12
+                                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AvatarFallback"], {
+                                                                    children: "TH"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                                    lineNumber: 150,
+                                                                    columnNumber: 12
+                                                                }, ("TURBOPACK compile-time value", void 0))
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/src/components/home/Navbar.js",
+                                                            lineNumber: 148,
+                                                            columnNumber: 11
+                                                        }, ("TURBOPACK compile-time value", void 0)),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-xs font-medium text-gray-700 mt-1 max-w-[60px] truncate",
+                                                            children: user?.phone || 'Profil'
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/home/Navbar.js",
+                                                            lineNumber: 152,
+                                                            columnNumber: 11
+                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                    lineNumber: 147,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 146,
+                                                columnNumber: 9
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuContent"], {
+                                                align: "end",
+                                                className: "w-48",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuLabel"], {
+                                                        children: "Mening Hisobim"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 158,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "px-2 text-xs text-gray-500 mb-2",
+                                                        children: user?.phone
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 159,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuSeparator"], {}, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 162,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuItem"], {
+                                                        asChild: true,
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                            href: "/orders",
+                                                            className: "cursor-pointer w-full",
+                                                            children: "Buyurtmalarim"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/home/Navbar.js",
+                                                            lineNumber: 164,
+                                                            columnNumber: 11
+                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 163,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuSeparator"], {}, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 168,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuItem"], {
+                                                        onClick: logout,
+                                                        className: "text-red-500 cursor-pointer focus:text-red-600",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$log$2d$out$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LogOut$3e$__["LogOut"], {
+                                                                className: "mr-2 h-4 w-4"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                                lineNumber: 173,
+                                                                columnNumber: 11
+                                                            }, ("TURBOPACK compile-time value", void 0)),
+                                                            " Chiqish"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 169,
+                                                        columnNumber: 10
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 157,
+                                                columnNumber: 9
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 145,
+                                        columnNumber: 8
+                                    }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                        onClick: ()=>setAuthModalOpen(true),
+                                        className: "bg-orange-500 hover:bg-orange-600 text-white font-semibold shadow-md",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$user$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__User$3e$__["User"], {
+                                                className: "mr-2 h-4 w-4"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 182,
+                                                columnNumber: 9
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            "Kirish"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 178,
+                                        columnNumber: 8
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/home/Navbar.js",
+                                lineNumber: 117,
+                                columnNumber: 6
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "md:hidden flex items-center gap-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/cart",
+                                        className: "relative text-gray-700",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shopping$2d$cart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ShoppingCart$3e$__["ShoppingCart"], {
+                                                className: "h-6 w-6"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 191,
+                                                columnNumber: 8
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            totalCartCount > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "absolute -top-2 -right-2 bg-orange-500 text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full",
+                                                children: totalCartCount
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 193,
+                                                columnNumber: 9
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 190,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                        variant: "ghost",
+                                        size: "icon",
+                                        onClick: ()=>setIsMobileMenuOpen(!isMobileMenuOpen),
+                                        children: isMobileMenuOpen ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {}, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 205,
+                                            columnNumber: 28
+                                        }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__["Menu"], {}, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 205,
+                                            columnNumber: 36
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 200,
+                                        columnNumber: 7
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/home/Navbar.js",
+                                lineNumber: 189,
+                                columnNumber: 6
+                            }, ("TURBOPACK compile-time value", void 0))
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/home/Navbar.js",
+                        lineNumber: 66,
+                        columnNumber: 5
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    isMobileMenuOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "md:hidden border-t bg-white p-4 absolute w-full left-0 shadow-lg z-40 animate-in slide-in-from-top-2",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex flex-col gap-4",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "relative w-full",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Input"], {
+                                            type: "text",
+                                            placeholder: "Qidirish...",
+                                            className: "w-full bg-gray-50"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 216,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Search$3e$__["Search"], {
+                                            className: "absolute right-3 top-2.5 h-5 w-5 text-gray-400"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 221,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/home/Navbar.js",
+                                    lineNumber: 215,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex items-center gap-3 border-b pb-4",
+                                    children: isLoggedIn ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "flex items-center gap-3 w-full",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Avatar"], {
+                                                className: "h-10 w-10",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AvatarImage"], {
+                                                        src: "https://github.com/shadcn.png"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 229,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$avatar$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AvatarFallback"], {
+                                                        children: "TH"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 230,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 228,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex-1",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "font-medium text-sm",
+                                                        children: "Foydalanuvchi"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 233,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-xs text-gray-500",
+                                                        children: user?.phone
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/home/Navbar.js",
+                                                        lineNumber: 234,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 232,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                                variant: "ghost",
+                                                size: "icon",
+                                                onClick: ()=>{
+                                                    logout();
+                                                    setIsMobileMenuOpen(false);
+                                                },
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$log$2d$out$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LogOut$3e$__["LogOut"], {
+                                                    className: "h-5 w-5 text-red-500"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                    lineNumber: 244,
+                                                    columnNumber: 12
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 236,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 227,
+                                        columnNumber: 10
+                                    }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                        onClick: ()=>{
+                                            setAuthModalOpen(true);
+                                            setIsMobileMenuOpen(false);
+                                        },
+                                        className: "bg-orange-500 w-full text-white",
+                                        children: "Kirish / Ro'yxatdan o'tish"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 248,
+                                        columnNumber: 10
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/home/Navbar.js",
+                                    lineNumber: 225,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex flex-col gap-2",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: "/orders",
+                                        className: "flex items-center gap-2 p-2 hover:bg-gray-100 rounded-lg",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$package$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Package$3e$__["Package"], {
+                                                className: "h-5 w-5 text-gray-500"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 265,
+                                                columnNumber: 10
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                children: "Buyurtmalarim"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/home/Navbar.js",
+                                                lineNumber: 266,
+                                                columnNumber: 10
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/home/Navbar.js",
+                                        lineNumber: 261,
+                                        columnNumber: 9
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/home/Navbar.js",
+                                    lineNumber: 260,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "font-semibold mb-2 text-sm text-gray-500 uppercase",
+                                            children: "Kategoriyalar"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 272,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "grid grid-cols-2 gap-2",
+                                            children: categories.map((cat, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                                    variant: "outline",
+                                                    className: "justify-start text-xs h-9",
+                                                    children: cat
+                                                }, idx, false, {
+                                                    fileName: "[project]/src/components/home/Navbar.js",
+                                                    lineNumber: 277,
+                                                    columnNumber: 11
+                                                }, ("TURBOPACK compile-time value", void 0)))
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/Navbar.js",
+                                            lineNumber: 275,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/home/Navbar.js",
+                                    lineNumber: 271,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/home/Navbar.js",
+                            lineNumber: 213,
+                            columnNumber: 7
+                        }, ("TURBOPACK compile-time value", void 0))
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/Navbar.js",
+                        lineNumber: 212,
+                        columnNumber: 6
+                    }, ("TURBOPACK compile-time value", void 0))
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/home/Navbar.js",
+                lineNumber: 65,
+                columnNumber: 4
+            }, ("TURBOPACK compile-time value", void 0))
+        ]
+    }, void 0, true);
+};
+_s(Navbar, "KE4ML4gcRzULsbvdXN9VrshnIDg=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAuth"],
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCart"]
+    ];
+});
+_c = Navbar;
+const __TURBOPACK__default__export__ = Navbar;
+var _c;
+__turbopack_context__.k.register(_c, "Navbar");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/dialog.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Dialog",
+    ()=>Dialog,
+    "DialogClose",
+    ()=>DialogClose,
+    "DialogContent",
+    ()=>DialogContent,
+    "DialogDescription",
+    ()=>DialogDescription,
+    "DialogFooter",
+    ()=>DialogFooter,
+    "DialogHeader",
+    ()=>DialogHeader,
+    "DialogOverlay",
+    ()=>DialogOverlay,
+    "DialogPortal",
+    ()=>DialogPortal,
+    "DialogTitle",
+    ()=>DialogTitle,
+    "DialogTrigger",
+    ()=>DialogTrigger
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-dialog/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__XIcon$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-client] (ecmascript) <export default as XIcon>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+;
+function Dialog({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "dialog",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 12,
+        columnNumber: 10
+    }, this);
+}
+_c = Dialog;
+function DialogTrigger({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Trigger"], {
+        "data-slot": "dialog-trigger",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 18,
+        columnNumber: 10
+    }, this);
+}
+_c1 = DialogTrigger;
+function DialogPortal({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Portal"], {
+        "data-slot": "dialog-portal",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 24,
+        columnNumber: 10
+    }, this);
+}
+_c2 = DialogPortal;
+function DialogClose({ ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Close"], {
+        "data-slot": "dialog-close",
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 30,
+        columnNumber: 10
+    }, this);
+}
+_c3 = DialogClose;
+function DialogOverlay({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Overlay"], {
+        "data-slot": "dialog-overlay",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 bg-black/50", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 38,
+        columnNumber: 5
+    }, this);
+}
+_c4 = DialogOverlay;
+function DialogContent({ className, children, showCloseButton = true, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(DialogPortal, {
+        "data-slot": "dialog-portal",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(DialogOverlay, {}, void 0, false, {
+                fileName: "[project]/src/components/ui/dialog.jsx",
+                lineNumber: 56,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Content"], {
+                "data-slot": "dialog-content",
+                className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("bg-background data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 fixed top-[50%] left-[50%] z-50 grid w-full max-w-[calc(100%-2rem)] translate-x-[-50%] translate-y-[-50%] gap-4 rounded-lg border p-6 shadow-lg duration-200 outline-none sm:max-w-lg", className),
+                ...props,
+                children: [
+                    children,
+                    showCloseButton && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Close"], {
+                        "data-slot": "dialog-close",
+                        className: "ring-offset-background focus:ring-ring data-[state=open]:bg-accent data-[state=open]:text-muted-foreground absolute top-4 right-4 rounded-xs opacity-70 transition-opacity hover:opacity-100 focus:ring-2 focus:ring-offset-2 focus:outline-hidden disabled:pointer-events-none [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__XIcon$3e$__["XIcon"], {}, void 0, false, {
+                                fileName: "[project]/src/components/ui/dialog.jsx",
+                                lineNumber: 69,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "sr-only",
+                                children: "Close"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/ui/dialog.jsx",
+                                lineNumber: 70,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/ui/dialog.jsx",
+                        lineNumber: 66,
+                        columnNumber: 11
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/ui/dialog.jsx",
+                lineNumber: 57,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 55,
+        columnNumber: 5
+    }, this);
+}
+_c5 = DialogContent;
+function DialogHeader({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "dialog-header",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("flex flex-col gap-2 text-center sm:text-left", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 83,
+        columnNumber: 5
+    }, this);
+}
+_c6 = DialogHeader;
+function DialogFooter({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        "data-slot": "dialog-footer",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("flex flex-col-reverse gap-2 sm:flex-row sm:justify-end", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 95,
+        columnNumber: 5
+    }, this);
+}
+_c7 = DialogFooter;
+function DialogTitle({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Title"], {
+        "data-slot": "dialog-title",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("text-lg leading-none font-semibold", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 107,
+        columnNumber: 5
+    }, this);
+}
+_c8 = DialogTitle;
+function DialogDescription({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$dialog$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Description"], {
+        "data-slot": "dialog-description",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("text-muted-foreground text-sm", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/dialog.jsx",
+        lineNumber: 119,
+        columnNumber: 5
+    }, this);
+}
+_c9 = DialogDescription;
+;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9;
+__turbopack_context__.k.register(_c, "Dialog");
+__turbopack_context__.k.register(_c1, "DialogTrigger");
+__turbopack_context__.k.register(_c2, "DialogPortal");
+__turbopack_context__.k.register(_c3, "DialogClose");
+__turbopack_context__.k.register(_c4, "DialogOverlay");
+__turbopack_context__.k.register(_c5, "DialogContent");
+__turbopack_context__.k.register(_c6, "DialogHeader");
+__turbopack_context__.k.register(_c7, "DialogFooter");
+__turbopack_context__.k.register(_c8, "DialogTitle");
+__turbopack_context__.k.register(_c9, "DialogDescription");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/radio-group.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "RadioGroup",
+    ()=>RadioGroup,
+    "RadioGroupItem",
+    ()=>RadioGroupItem
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$radio$2d$group$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-radio-group/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CircleIcon$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/circle.js [app-client] (ecmascript) <export default as CircleIcon>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+;
+function RadioGroup({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$radio$2d$group$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "radio-group",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("grid gap-3", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/radio-group.jsx",
+        lineNumber: 14,
+        columnNumber: 5
+    }, this);
+}
+_c = RadioGroup;
+function RadioGroupItem({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$radio$2d$group$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Item"], {
+        "data-slot": "radio-group-item",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("border-input text-primary focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:bg-input/30 aspect-square size-4 shrink-0 rounded-full border shadow-xs transition-[color,box-shadow] outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50", className),
+        ...props,
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$radio$2d$group$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Indicator"], {
+            "data-slot": "radio-group-indicator",
+            className: "relative flex items-center justify-center",
+            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CircleIcon$3e$__["CircleIcon"], {
+                className: "fill-primary absolute top-1/2 left-1/2 size-2 -translate-x-1/2 -translate-y-1/2"
+            }, void 0, false, {
+                fileName: "[project]/src/components/ui/radio-group.jsx",
+                lineNumber: 36,
+                columnNumber: 9
+            }, this)
+        }, void 0, false, {
+            fileName: "[project]/src/components/ui/radio-group.jsx",
+            lineNumber: 33,
+            columnNumber: 7
+        }, this)
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/radio-group.jsx",
+        lineNumber: 26,
+        columnNumber: 5
+    }, this);
+}
+_c1 = RadioGroupItem;
+;
+var _c, _c1;
+__turbopack_context__.k.register(_c, "RadioGroup");
+__turbopack_context__.k.register(_c1, "RadioGroupItem");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/ui/label.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Label",
+    ()=>Label
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$label$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@radix-ui/react-label/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/utils.js [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+function Label({ className, ...props }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$label$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Root"], {
+        "data-slot": "label",
+        className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$utils$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cn"])("flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50", className),
+        ...props
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/label.jsx",
+        lineNumber: 13,
+        columnNumber: 5
+    }, this);
+}
+_c = Label;
+;
+var _c;
+__turbopack_context__.k.register(_c, "Label");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/checkout/CheckoutModal.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/dialog.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/button.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/radio-group.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/label.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/map-pin.js [app-client] (ecmascript) <export default as MapPin>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$truck$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Truck$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/truck.js [app-client] (ecmascript) <export default as Truck>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$credit$2d$card$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CreditCard$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/credit-card.js [app-client] (ecmascript) <export default as CreditCard>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$banknote$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Banknote$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/banknote.js [app-client] (ecmascript) <export default as Banknote>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Map$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/map.js [app-client] (ecmascript) <export default as Map>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/CartContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$OrderContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/OrderContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/navigation.js [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const CheckoutModal = ({ isOpen, onClose })=>{
+    _s();
+    const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
+    const { cartItems, totalCartCount, removeFromCart } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCart"])() // removeFromCart o'rniga clearCart kerak, quyida yozamiz
+    ;
+    const { addOrder } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$OrderContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useOrders"])();
+    // States
+    const [step, setStep] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(1) // 1: Ma'lumotlar, 2: Tasdiqlash
+    ;
+    const [deliveryType, setDeliveryType] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('delivery') // 'delivery' or 'pickup'
+    ;
+    const [paymentType, setPaymentType] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('card') // 'card' or 'cash'
+    ;
+    // Cartdagi ma'lumotlarni hisoblash (taxminiy, chunki productsData bu yerda yo'q,
+    // ideal variantda Products.json ni import qilish yoki Contextdan to'liq ma'lumot olish kerak.
+    // Biz soddalashtirish uchun CartContextdan to'liq ma'lumot kelishini taxmin qilamiz yoki
+    // bu yerda mahsulot narxlarini yana bir bor hisoblashimiz kerak bo'ladi.
+    // Keling, CartContextni biroz update qilgan deb faraz qilamiz yoki oddiyroq yo'l tutamiz.
+    // DEMO uchun statik ma'lumotlar:
+    const deliveryPrice = deliveryType === 'delivery' ? 20000 : 0;
+    const handleOrder = ()=>{
+        // 1. Buyurtma yaratish
+        const newOrder = {
+            items: cartItems,
+            totalCount: totalCartCount,
+            deliveryType,
+            paymentType,
+            totalPrice: 0
+        };
+        addOrder(newOrder);
+        // 2. Savatni tozalash (Bu funksiyani Contextga qo'shish kerak, hozircha qo'lda tozalaymiz deb faraz qilamiz)
+        // Real loyihada clearCart() funksiyasi bo'lishi kerak.
+        // 3. Yo'naltirish
+        router.push('/orders');
+        onClose();
+    };
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Dialog"], {
+        open: isOpen,
+        onOpenChange: onClose,
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DialogContent"], {
+            className: "sm:max-w-[600px] max-h-[80vh] overflow-y-auto",
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DialogHeader"], {
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DialogTitle"], {
+                        className: "text-2xl font-bold",
+                        children: "Rasmiylashtirish"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                        lineNumber: 61,
+                        columnNumber: 6
+                    }, ("TURBOPACK compile-time value", void 0))
+                }, void 0, false, {
+                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                    lineNumber: 60,
+                    columnNumber: 5
+                }, ("TURBOPACK compile-time value", void 0)),
+                step === 1 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "space-y-6 py-4",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                    className: "text-lg font-semibold mb-3",
+                                    children: "1. Yetkazib berish usuli"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 70,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "grid grid-cols-2 gap-4",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: `border-2 rounded-xl p-4 cursor-pointer flex flex-col items-center gap-2 ${deliveryType === 'delivery' ? 'border-orange-500 bg-orange-50' : 'border-gray-200'}`,
+                                            onClick: ()=>setDeliveryType('delivery'),
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$truck$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Truck$3e$__["Truck"], {
+                                                    className: `w-8 h-8 ${deliveryType === 'delivery' ? 'text-orange-500' : 'text-gray-400'}`
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 82,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "font-medium",
+                                                    children: "Yetkazib berish"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 89,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 74,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: `border-2 rounded-xl p-4 cursor-pointer flex flex-col items-center gap-2 ${deliveryType === 'pickup' ? 'border-orange-500 bg-orange-50' : 'border-gray-200'}`,
+                                            onClick: ()=>setDeliveryType('pickup'),
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
+                                                    className: `w-8 h-8 ${deliveryType === 'pickup' ? 'text-orange-500' : 'text-gray-400'}`
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 99,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "font-medium",
+                                                    children: "Olib ketish"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 106,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 91,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 73,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "mt-4 p-4 bg-gray-50 rounded-lg border",
+                                    children: deliveryType === 'delivery' ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "flex items-center gap-3 text-gray-700",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
+                                                className: "text-blue-600"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                lineNumber: 114,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-xs text-gray-400",
+                                                        children: "Sizning manzilingiz (Avtomatik):"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                        lineNumber: 116,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "font-semibold",
+                                                        children: "Toshkent sh, Yunusobod tumani, 12-mavze"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                        lineNumber: 119,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                lineNumber: 115,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                        lineNumber: 113,
+                                        columnNumber: 10
+                                    }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "space-y-2",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "font-semibold text-gray-700",
+                                                children: "Bizning xaritadagi joylashuvimiz:"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                lineNumber: 126,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "w-full h-32 bg-gray-200 rounded flex items-center justify-center text-gray-400 relative overflow-hidden",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Map$3e$__["Map"], {
+                                                        className: "w-10 h-10 mb-2"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                        lineNumber: 130,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "absolute inset-0 bg-blue-100 opacity-20"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                        lineNumber: 131,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "z-10 text-sm",
+                                                        children: "Xarita (Punkt: Tech House Main)"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                        lineNumber: 132,
+                                                        columnNumber: 12
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                lineNumber: 129,
+                                                columnNumber: 11
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                        lineNumber: 125,
+                                        columnNumber: 10
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 111,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                            lineNumber: 69,
+                            columnNumber: 7
+                        }, ("TURBOPACK compile-time value", void 0)),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                    className: "text-lg font-semibold mb-3",
+                                    children: "2. To'lov usuli"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 143,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RadioGroup"], {
+                                    value: paymentType,
+                                    onValueChange: setPaymentType,
+                                    className: "space-y-3",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: `flex items-center space-x-3 border p-3 rounded-lg ${paymentType === 'card' ? 'border-orange-500 bg-orange-50' : ''}`,
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                    value: "card",
+                                                    id: "card"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 156,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Label"], {
+                                                    htmlFor: "card",
+                                                    className: "flex items-center gap-2 cursor-pointer flex-1",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$credit$2d$card$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CreditCard$3e$__["CreditCard"], {
+                                                            className: "text-blue-600"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                            lineNumber: 161,
+                                                            columnNumber: 11
+                                                        }, ("TURBOPACK compile-time value", void 0)),
+                                                        " Karta orqali (Uzcard/Humo)"
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 157,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 149,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: `flex items-center space-x-3 border p-3 rounded-lg ${paymentType === 'cash' ? 'border-orange-500 bg-orange-50' : ''}`,
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                    value: "cash",
+                                                    id: "cash"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 172,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Label"], {
+                                                    htmlFor: "cash",
+                                                    className: "flex items-center gap-2 cursor-pointer flex-1",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$banknote$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Banknote$3e$__["Banknote"], {
+                                                            className: "text-green-600"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                            lineNumber: 177,
+                                                            columnNumber: 11
+                                                        }, ("TURBOPACK compile-time value", void 0)),
+                                                        " Naqd pul orqali"
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                                    lineNumber: 173,
+                                                    columnNumber: 10
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 165,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 144,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                            lineNumber: 142,
+                            columnNumber: 7
+                        }, ("TURBOPACK compile-time value", void 0)),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                            onClick: ()=>setStep(2),
+                            className: "w-full bg-blue-900 hover:bg-blue-800 h-12 text-lg",
+                            children: "Davom etish"
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                            lineNumber: 183,
+                            columnNumber: 7
+                        }, ("TURBOPACK compile-time value", void 0))
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                    lineNumber: 67,
+                    columnNumber: 6
+                }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "space-y-6 py-4",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "bg-gray-50 p-4 rounded-lg space-y-3",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                    className: "font-bold border-b pb-2",
+                                    children: "Ma'lumotlarni tekshiring"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 194,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex justify-between text-sm",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-gray-500",
+                                            children: "Mahsulotlar soni:"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 199,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "font-medium",
+                                            children: [
+                                                totalCartCount,
+                                                " dona"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 200,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 198,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex justify-between text-sm",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-gray-500",
+                                            children: "Yetkazib berish:"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 203,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "font-medium",
+                                            children: deliveryType === 'delivery' ? "Kuryer orqali (20 000 so'm)" : 'Olib ketish (Bepul)'
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 204,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 202,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex justify-between text-sm",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-gray-500",
+                                            children: "Manzil:"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 211,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "font-medium truncate max-w-[200px]",
+                                            children: deliveryType === 'delivery' ? 'Toshkent sh, Yunusobod...' : 'Tech House Main'
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 212,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 210,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex justify-between text-sm",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-gray-500",
+                                            children: "To'lov turi:"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 219,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "font-medium",
+                                            children: paymentType === 'card' ? 'Karta orqali' : 'Naqd pul'
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                            lineNumber: 220,
+                                            columnNumber: 9
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 218,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                            lineNumber: 193,
+                            columnNumber: 7
+                        }, ("TURBOPACK compile-time value", void 0)),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex gap-3",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                    variant: "outline",
+                                    onClick: ()=>setStep(1),
+                                    className: "flex-1",
+                                    children: "Orqaga"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 227,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                    onClick: handleOrder,
+                                    className: "flex-1 bg-orange-500 hover:bg-orange-600 font-bold",
+                                    children: "Tasdiqlash"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                                    lineNumber: 234,
+                                    columnNumber: 8
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                            lineNumber: 226,
+                            columnNumber: 7
+                        }, ("TURBOPACK compile-time value", void 0))
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/checkout/CheckoutModal.js",
+                    lineNumber: 191,
+                    columnNumber: 6
+                }, ("TURBOPACK compile-time value", void 0))
+            ]
+        }, void 0, true, {
+            fileName: "[project]/src/components/checkout/CheckoutModal.js",
+            lineNumber: 59,
+            columnNumber: 4
+        }, ("TURBOPACK compile-time value", void 0))
+    }, void 0, false, {
+        fileName: "[project]/src/components/checkout/CheckoutModal.js",
+        lineNumber: 58,
+        columnNumber: 3
+    }, ("TURBOPACK compile-time value", void 0));
+};
+_s(CheckoutModal, "tgGHGBuBiH8zcynoEUxLPqs/wEA=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"],
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCart"],
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$OrderContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useOrders"]
+    ];
+});
+_c = CheckoutModal;
+const __TURBOPACK__default__export__ = CheckoutModal;
+var _c;
+__turbopack_context__.k.register(_c, "CheckoutModal");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/app/cart/page.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>CartPage
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)"); // Import Link
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trash$2d$2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Trash2$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/trash-2.js [app-client] (ecmascript) <export default as Trash2>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$minus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Minus$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/minus.js [app-client] (ecmascript) <export default as Minus>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/plus.js [app-client] (ecmascript) <export default as Plus>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shopping$2d$bag$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ShoppingBag$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/shopping-bag.js [app-client] (ecmascript) <export default as ShoppingBag>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/CartContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/context/AuthContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$datas$2f$Products$2e$json__$28$json$29$__ = __turbopack_context__.i("[project]/src/datas/Products.json (json)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/button.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/card.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$separator$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/separator.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$home$2f$Navbar$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/home/Navbar.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$auth$2f$AuthModal$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/auth/AuthModal.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$checkout$2f$CheckoutModal$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/checkout/CheckoutModal.js [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+// src/app/cart/page.js
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+function CartPage() {
+    _s();
+    const { cartItems, increaseCartQuantity, decreaseCartQuantity, removeFromCart } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCart"])();
+    const { isLoggedIn } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAuth"])();
+    const [isAuthModalOpen, setAuthModalOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    const [isCheckoutModalOpen, setCheckoutModalOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    const cartProducts = cartItems.map((cartItem)=>{
+        const item = __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$datas$2f$Products$2e$json__$28$json$29$__["default"].find((p)=>p.id === cartItem.id);
+        return {
+            ...item,
+            quantity: cartItem.quantity
+        };
+    });
+    const totalPrice = cartProducts.reduce((total, item)=>total + item.newPrice * item.quantity, 0);
+    const totalOldPrice = cartProducts.reduce((total, item)=>total + (item.oldPrice || item.newPrice) * item.quantity, 0);
+    const totalSavings = totalOldPrice - totalPrice;
+    const formatPrice = (price)=>new Intl.NumberFormat('uz-UZ').format(price);
+    const handleCheckoutClick = ()=>{
+        if (isLoggedIn) {
+            setCheckoutModalOpen(true);
+        } else {
+            setAuthModalOpen(true);
+        }
+    };
+    const handleLoginSuccess = ()=>{
+        setTimeout(()=>setCheckoutModalOpen(true), 500);
+    };
+    if (cartItems.length === 0) {
+        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "min-h-screen bg-gray-50 pb-20",
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$home$2f$Navbar$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                    fileName: "[project]/src/app/cart/page.js",
+                    lineNumber: 62,
+                    columnNumber: 5
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "flex flex-col items-center justify-center h-[60vh] text-center px-4",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "bg-gray-200 p-6 rounded-full mb-4",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shopping$2d$bag$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ShoppingBag$3e$__["ShoppingBag"], {
+                                className: "w-16 h-16 text-gray-400"
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/cart/page.js",
+                                lineNumber: 65,
+                                columnNumber: 7
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/cart/page.js",
+                            lineNumber: 64,
+                            columnNumber: 6
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                            className: "text-2xl font-bold text-gray-800 mb-2",
+                            children: "Savatingiz hozircha bo‘sh"
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/cart/page.js",
+                            lineNumber: 67,
+                            columnNumber: 6
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-gray-500 mb-6",
+                            children: "Mahsulotlarni tanlash uchun bosh sahifaga o'ting"
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/cart/page.js",
+                            lineNumber: 70,
+                            columnNumber: 6
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                            href: "/",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                className: "bg-orange-500 hover:bg-orange-600 text-white px-8",
+                                children: "Xarid qilish"
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/cart/page.js",
+                                lineNumber: 74,
+                                columnNumber: 7
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/cart/page.js",
+                            lineNumber: 73,
+                            columnNumber: 6
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/app/cart/page.js",
+                    lineNumber: 63,
+                    columnNumber: 5
+                }, this)
+            ]
+        }, void 0, true, {
+            fileName: "[project]/src/app/cart/page.js",
+            lineNumber: 61,
+            columnNumber: 4
+        }, this);
+    }
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "min-h-screen bg-gray-50 pb-20",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$home$2f$Navbar$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                fileName: "[project]/src/app/cart/page.js",
+                lineNumber: 85,
+                columnNumber: 4
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$auth$2f$AuthModal$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                isOpen: isAuthModalOpen,
+                onClose: ()=>setAuthModalOpen(false),
+                onLoginSuccess: handleLoginSuccess
+            }, void 0, false, {
+                fileName: "[project]/src/app/cart/page.js",
+                lineNumber: 87,
+                columnNumber: 4
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$checkout$2f$CheckoutModal$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                isOpen: isCheckoutModalOpen,
+                onClose: ()=>setCheckoutModalOpen(false)
+            }, void 0, false, {
+                fileName: "[project]/src/app/cart/page.js",
+                lineNumber: 93,
+                columnNumber: 4
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "container mx-auto px-4 py-8",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "text-2xl font-bold mb-6 flex items-center gap-2",
+                        children: [
+                            "Savat",
+                            ' ',
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-gray-400 text-lg font-normal",
+                                children: [
+                                    cartItems.length,
+                                    " ta mahsulot"
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/app/cart/page.js",
+                                lineNumber: 101,
+                                columnNumber: 6
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/app/cart/page.js",
+                        lineNumber: 99,
+                        columnNumber: 5
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex flex-col lg:flex-row gap-6",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "flex-1 space-y-4",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Card"], {
+                                    className: "border-none shadow-sm",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["CardContent"], {
+                                        className: "p-0",
+                                        children: cartProducts.map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "p-4 flex gap-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                                href: `/product/${item.id}`,
+                                                                className: "block relative w-20 h-20 sm:w-28 sm:h-28 bg-gray-50 rounded border flex-shrink-0",
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                                    src: item.images[0].imageUrl,
+                                                                    alt: item.nomi,
+                                                                    fill: true,
+                                                                    className: "object-contain p-2 mix-blend-multiply"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/app/cart/page.js",
+                                                                    lineNumber: 118,
+                                                                    columnNumber: 13
+                                                                }, this)
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                lineNumber: 114,
+                                                                columnNumber: 12
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "flex-1 flex flex-col justify-between",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "flex justify-between items-start gap-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                                                href: `/product/${item.id}`,
+                                                                                className: "hover:text-blue-600 hover:underline",
+                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                                                    className: "text-sm sm:text-base font-medium text-gray-800 line-clamp-2",
+                                                                                    children: item.nomi
+                                                                                }, void 0, false, {
+                                                                                    fileName: "[project]/src/app/cart/page.js",
+                                                                                    lineNumber: 133,
+                                                                                    columnNumber: 15
+                                                                                }, this)
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                                lineNumber: 129,
+                                                                                columnNumber: 14
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                                                onClick: ()=>removeFromCart(item.id),
+                                                                                className: "text-gray-400 hover:text-red-500 p-1",
+                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trash$2d$2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Trash2$3e$__["Trash2"], {
+                                                                                    className: "w-5 h-5"
+                                                                                }, void 0, false, {
+                                                                                    fileName: "[project]/src/app/cart/page.js",
+                                                                                    lineNumber: 141,
+                                                                                    columnNumber: 15
+                                                                                }, this)
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                                lineNumber: 137,
+                                                                                columnNumber: 14
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                        lineNumber: 127,
+                                                                        columnNumber: 13
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "flex justify-between items-end mt-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center border rounded-lg overflow-hidden",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                                                        onClick: ()=>decreaseCartQuantity(item.id),
+                                                                                        className: "p-2 hover:bg-gray-100",
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$minus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Minus$3e$__["Minus"], {
+                                                                                            className: "w-4 h-4 text-gray-500"
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "[project]/src/app/cart/page.js",
+                                                                                            lineNumber: 151,
+                                                                                            columnNumber: 16
+                                                                                        }, this)
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                                        lineNumber: 147,
+                                                                                        columnNumber: 15
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "w-8 text-center text-sm font-semibold",
+                                                                                        children: item.quantity
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                                        lineNumber: 153,
+                                                                                        columnNumber: 15
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                                                        onClick: ()=>increaseCartQuantity(item.id),
+                                                                                        className: "p-2 hover:bg-gray-100",
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__["Plus"], {
+                                                                                            className: "w-4 h-4 text-gray-500"
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "[project]/src/app/cart/page.js",
+                                                                                            lineNumber: 160,
+                                                                                            columnNumber: 16
+                                                                                        }, this)
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                                        lineNumber: 156,
+                                                                                        columnNumber: 15
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                                lineNumber: 146,
+                                                                                columnNumber: 14
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "text-right",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        className: "font-bold text-blue-900 text-lg",
+                                                                                        children: [
+                                                                                            formatPrice(item.newPrice * item.quantity),
+                                                                                            " so'm"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                                        lineNumber: 164,
+                                                                                        columnNumber: 15
+                                                                                    }, this),
+                                                                                    item.oldPrice && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        className: "text-xs text-gray-400 line-through",
+                                                                                        children: [
+                                                                                            formatPrice(item.oldPrice * item.quantity),
+                                                                                            ' ',
+                                                                                            "so'm"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                                        lineNumber: 168,
+                                                                                        columnNumber: 16
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                                lineNumber: 163,
+                                                                                columnNumber: 14
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/src/app/cart/page.js",
+                                                                        lineNumber: 145,
+                                                                        columnNumber: 13
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                lineNumber: 126,
+                                                                columnNumber: 12
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/app/cart/page.js",
+                                                        lineNumber: 112,
+                                                        columnNumber: 11
+                                                    }, this),
+                                                    index !== cartProducts.length - 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$separator$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Separator"], {}, void 0, false, {
+                                                        fileName: "[project]/src/app/cart/page.js",
+                                                        lineNumber: 177,
+                                                        columnNumber: 49
+                                                    }, this)
+                                                ]
+                                            }, item.id, true, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 111,
+                                                columnNumber: 10
+                                            }, this))
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/cart/page.js",
+                                        lineNumber: 109,
+                                        columnNumber: 8
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/cart/page.js",
+                                    lineNumber: 108,
+                                    columnNumber: 7
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/cart/page.js",
+                                lineNumber: 107,
+                                columnNumber: 6
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "lg:w-[350px] space-y-4",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Card"], {
+                                    className: "border-none shadow-sm sticky top-24",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["CardContent"], {
+                                        className: "p-6",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                                className: "text-lg font-bold mb-4",
+                                                children: "Buyurtmangiz"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 187,
+                                                columnNumber: 9
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "space-y-3 text-sm mb-4 text-gray-600",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex justify-between",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                children: [
+                                                                    "Mahsulotlar (",
+                                                                    cartItems.reduce((a, b)=>a + b.quantity, 0),
+                                                                    "):"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                lineNumber: 190,
+                                                                columnNumber: 11
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                children: [
+                                                                    formatPrice(totalOldPrice),
+                                                                    " so'm"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                lineNumber: 194,
+                                                                columnNumber: 11
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/app/cart/page.js",
+                                                        lineNumber: 189,
+                                                        columnNumber: 10
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex justify-between text-green-600",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                children: "Tejab qolindi:"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                lineNumber: 197,
+                                                                columnNumber: 11
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                children: [
+                                                                    "- ",
+                                                                    formatPrice(totalSavings),
+                                                                    " so'm"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/src/app/cart/page.js",
+                                                                lineNumber: 198,
+                                                                columnNumber: 11
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/app/cart/page.js",
+                                                        lineNumber: 196,
+                                                        columnNumber: 10
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 188,
+                                                columnNumber: 9
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$separator$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Separator"], {
+                                                className: "mb-4"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 201,
+                                                columnNumber: 9
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex justify-between items-center mb-6",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "font-bold text-lg",
+                                                        children: "Jami:"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/app/cart/page.js",
+                                                        lineNumber: 203,
+                                                        columnNumber: 10
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "font-bold text-xl text-blue-900",
+                                                        children: [
+                                                            formatPrice(totalPrice),
+                                                            " so'm"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/app/cart/page.js",
+                                                        lineNumber: 204,
+                                                        columnNumber: 10
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 202,
+                                                columnNumber: 9
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
+                                                onClick: handleCheckoutClick,
+                                                className: "w-full bg-orange-500 hover:bg-orange-600 text-white font-bold py-6 text-base",
+                                                children: "Rasmiylashtirishga o'tish"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 209,
+                                                columnNumber: 9
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-xs text-gray-400 mt-4 text-center",
+                                                children: "Shartlarni qabul qilasiz."
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/cart/page.js",
+                                                lineNumber: 215,
+                                                columnNumber: 9
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/app/cart/page.js",
+                                        lineNumber: 186,
+                                        columnNumber: 8
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/cart/page.js",
+                                    lineNumber: 185,
+                                    columnNumber: 7
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/cart/page.js",
+                                lineNumber: 184,
+                                columnNumber: 6
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/app/cart/page.js",
+                        lineNumber: 106,
+                        columnNumber: 5
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/app/cart/page.js",
+                lineNumber: 98,
+                columnNumber: 4
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/app/cart/page.js",
+        lineNumber: 84,
+        columnNumber: 3
+    }, this);
+}
+_s(CartPage, "pA6FV92TOr5tBjeH2X0wTYoYAX8=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$CartContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCart"],
+        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAuth"]
+    ];
+});
+_c = CartPage;
+var _c;
+__turbopack_context__.k.register(_c, "CartPage");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+]);
+
+//# sourceMappingURL=src_a8150d9b._.js.map

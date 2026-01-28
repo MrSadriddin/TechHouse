@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/sadriddinaxhmadullayev/Desktop/PDP/Assignment/Web%20Development/Practice/tech-house/src/app/page.js"],"sourcesContent":["export default function Home() {\n  return (\n    <div className=\"\"></div>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;;;;;AAEnB"}}]
+}
