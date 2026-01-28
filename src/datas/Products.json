@@ -1,0 +1,1675 @@
+[
+  {
+    "id": 1,
+    "nomi": "Konditsioner Samsung CG-410",
+    "catalog": "Isitish va sovutish",
+    "category": "Iqlim texnikasi / Konditsionerlar",
+    "brand": "Samsung",
+    "rating": 4.3,
+    "reviewsCount": 4,
+    "ordersCount": 198,
+    "oldPrice": 272000,
+    "newPrice": 223000,
+    "discount": 18,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#FFFFFF"
+    ],
+    "seller": {
+      "name": "Samsung Official Store",
+      "rating": "4.7",
+      "reviews": 976
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/806/80622/155226/6ce119f6-7656-49f6-a9ae-a94a1217bc18.jpg"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/806/80622/155227/0c6a8e9b-5f1e-4de4-be66-c3bd4b65786e.jpg"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Xizmat ko'rsatish maydoni",
+        "value": "36 m²"
+      },
+      {
+        "key": "Rejimlar",
+        "value": "Isitish / Sovutish"
+      },
+      {
+        "key": "Displey",
+        "value": "Mavjud"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Samsung"
+          },
+          {
+            "label": "Kafolat",
+            "value": "3 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Malayziya"
+          }
+        ]
+      },
+      {
+        "group": "Texnik xususiyatlar",
+        "items": [
+          {
+            "label": "Tavsiya etilgan maydon",
+            "value": "36 m²"
+          },
+          {
+            "label": "Freon turi",
+            "value": "R410A"
+          },
+          {
+            "label": "Energiya samaradorligi",
+            "value": "A++"
+          }
+        ]
+      }
+    ],
+    "description": "Yozda salqinlik, qishda issiqlik ulashuvchi zamonaviy konditsioner. Elektr energiyasini tejaydi. Tergiversatio stips adulatio stips vis et. Tot sub animi apostolus.",
+    "advantages": [
+      "verus coerceo ut",
+      "demum tamdiu alo deludo",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Olen",
+        "date": "16 avgust 2024",
+        "rating": 5,
+        "comment": "Depono velut tener aegrus cursus aegre spero derideo.",
+        "pros": "arguo curtus alter",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Cody",
+        "date": "20 avgust 2024",
+        "rating": 4,
+        "comment": "Cunae sint vilicus corporis adamo sto.",
+        "pros": "cumque demonstro depraedor",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Geovanny",
+        "date": "12 oktyabr 2024",
+        "rating": 5,
+        "comment": "Dedecor viduo tripudio harum suasoria.",
+        "pros": "adulescens convoco at",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Hollie",
+        "date": "18 may 2024",
+        "rating": 3,
+        "comment": "Sed teneo volutabrum conservo asporto undique comparo tristis.",
+        "pros": "virtus torqueo vobis",
+        "cons": "Yo'q"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nomi": "Soch feni (Fen) Philips AK-595",
+    "catalog": "Shaxsiy parvarish",
+    "category": "Go'zallik va salomatlik / Soch parvarishi",
+    "brand": "Philips",
+    "rating": 4.5,
+    "reviewsCount": 2,
+    "ordersCount": 777,
+    "oldPrice": 5955000,
+    "newPrice": 5061000,
+    "discount": 15,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#1E3A8A"
+    ],
+    "seller": {
+      "name": "Philips Official Store",
+      "rating": "4.8",
+      "reviews": 469
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/804/80479/154851/4b16f294-3786-4b43-b386-b8b303241cdc.jpg"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/804/80456/154809/d55c0bb0-1c5a-4477-9f31-98bfc292f089.jpg"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1013/101316/179212/f9b7a5b6-065b-4d64-a26c-e5b54378bd42.jpg"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Quvvat manbai",
+        "value": "Tarmoq"
+      },
+      {
+        "key": "Qoplamasi",
+        "value": "Keramika"
+      },
+      {
+        "key": "Harorat rejimlari",
+        "value": "2"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Philips"
+          },
+          {
+            "label": "Kafolat",
+            "value": "3 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Vetnam"
+          }
+        ]
+      }
+    ],
+    "description": "Sochlaringizni quritish va shakl berish uchun professional vosita. Soch tolalarini himoya qiladi. Velum viriliter valde bene arceo comprehendo somnus adeo vox. Recusandae quidem blanditiis.",
+    "advantages": [
+      "apparatus tam attero",
+      "conatus enim bos condico",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Hipolito",
+        "date": "1 iyun 2024",
+        "rating": 4,
+        "comment": "Volup celebrer utrimque clarus verbum conculco dedico tres.",
+        "pros": "demonstro thorax deripio",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Shany",
+        "date": "12 iyul 2024",
+        "rating": 5,
+        "comment": "Tracto vorax curiositas tum conicio atavus ad.",
+        "pros": "ullus aggredior votum",
+        "cons": "tyrannus aestus"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nomi": "Yandex Stansiya Apple UX-466",
+    "catalog": "Aqlli uy",
+    "category": "Elektronika / Aqlli uy / Kolonkalar",
+    "brand": "Apple",
+    "rating": 3,
+    "reviewsCount": 2,
+    "ordersCount": 493,
+    "oldPrice": 3542000,
+    "newPrice": 2940000,
+    "discount": 17,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#808080",
+      "#FF0000",
+      "#000000"
+    ],
+    "seller": {
+      "name": "Apple Official Store",
+      "rating": "4.8",
+      "reviews": 1185
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/3583/358313/209138/eda247ef-a8f6-4a39-82ef-16f494fb3c7f.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/3583/358313/209137/82203cdb-1671-481f-bf11-037c56bfd8a2.webp"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Ulanish",
+        "value": "Wi-Fi / Bluetooth"
+      },
+      {
+        "key": "Ovozli boshqaruv",
+        "value": "Mavjud"
+      },
+      {
+        "key": "Tizim",
+        "value": "Smart Home"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Apple"
+          },
+          {
+            "label": "Kafolat",
+            "value": "3 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Vetnam"
+          }
+        ]
+      },
+      {
+        "group": "Ulanish",
+        "items": [
+          {
+            "label": "Simsiz aloqa",
+            "value": "Wi-Fi 2.4 GHz"
+          },
+          {
+            "label": "Ilova orqali boshqarish",
+            "value": "Bor"
+          },
+          {
+            "label": "Ekosistema",
+            "value": "Google Home / Alexa / Yandex"
+          }
+        ]
+      }
+    ],
+    "description": "Ovozli buyruqlar bilan ishlaydigan aqlli kolonka. Musiqa tinglash va uyni boshqarish uchun. Quibusdam tantum ambulo comes dolore arceo antepono congregatio. Conventus alioqui adfectus vado degenero undique supra.",
+    "advantages": [
+      "praesentium sed xiphias",
+      "quod infit vobis caput",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Stefan",
+        "date": "17 fevral 2024",
+        "rating": 3,
+        "comment": "Terreo amitto villa.",
+        "pros": "vox auctor provident",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Frida",
+        "date": "10 yanvar 2024",
+        "rating": 3,
+        "comment": "Vae curis ustilo.",
+        "pros": "caterva valde summa",
+        "cons": "Yo'q"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nomi": "Aqlli choynak Xiaomi PU-724",
+    "catalog": "Oshxona jihozlari",
+    "category": "Maishiy texnika / Oshxona / Choynaklar",
+    "brand": "Xiaomi",
+    "rating": 3.5,
+    "reviewsCount": 4,
+    "ordersCount": 620,
+    "oldPrice": 4109000,
+    "newPrice": 3410000,
+    "discount": 17,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#FF0000"
+    ],
+    "seller": {
+      "name": "Xiaomi Official Store",
+      "rating": "4.8",
+      "reviews": 1719
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1013/101301/205256/69c8455e-7f11-4fd5-8386-550f7feb0f50.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1013/101301/202946/ea7f21e3-35d0-412e-9469-b010ea4666e4.webp"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1013/101301/202945/7e817c01-6b36-4e1b-a847-d4fbcc93d2cc.webp"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Quvvat",
+        "value": "778 W"
+      },
+      {
+        "key": "Hajm",
+        "value": "3.2 L"
+      },
+      {
+        "key": "Korpus materiali",
+        "value": "Plastik"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Xiaomi"
+          },
+          {
+            "label": "Kafolat",
+            "value": "3 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Malayziya"
+          }
+        ]
+      },
+      {
+        "group": "Texnik parametrlar",
+        "items": [
+          {
+            "label": "Quvvat",
+            "value": "778 W"
+          },
+          {
+            "label": "Tezlik rejimlari",
+            "value": "8"
+          },
+          {
+            "label": "Idish hajmi",
+            "value": "3.2 L"
+          }
+        ]
+      }
+    ],
+    "description": "Suvni tez qaynatish uchun zamonaviy elektr choynak. Zanglamaydigan po'latdan yasalgan korpus. Tardus suscipio versus nobis. Demonstro voluptatem deserunt viridis commodo aliqua acidus celebrer.",
+    "advantages": [
+      "usus aegrus cuppedia",
+      "conduco venustas vae virgo",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Justine",
+        "date": "23 oktyabr 2024",
+        "rating": 4,
+        "comment": "Totus voro animus.",
+        "pros": "vulgivagus ab viridis",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Javon",
+        "date": "13 dekabr 2024",
+        "rating": 3,
+        "comment": "Aiunt corporis benigne uxor asperiores claudeo talis numquam contabesco quam.",
+        "pros": "verbum approbo communis",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Kay",
+        "date": "2 avgust 2024",
+        "rating": 4,
+        "comment": "Demoror timor vergo vomito terreo suus.",
+        "pros": "tumultus utique maxime",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Marilie",
+        "date": "20 oktyabr 2024",
+        "rating": 3,
+        "comment": "Amita utor aduro adulescens adeo.",
+        "pros": "spargo color caput",
+        "cons": "Yo'q"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nomi": "Yandex Stansiya JBL HJ-702",
+    "catalog": "Aqlli uy",
+    "category": "Elektronika / Aqlli uy / Kolonkalar",
+    "brand": "JBL",
+    "rating": 3.7,
+    "reviewsCount": 10,
+    "ordersCount": 552,
+    "oldPrice": 798000,
+    "newPrice": 758000,
+    "discount": 5,
+    "tags": [],
+    "colors": [
+      "#000000"
+    ],
+    "seller": {
+      "name": "JBL Official Store",
+      "rating": "4.8",
+      "reviews": 863
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/3589/358967/212348/aaac9d77-897d-490e-b4a8-6b9f94c7767f.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/3589/358980/212419/e86d0e1c-18fd-4b79-b170-6caba5451c10.webp"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Ulanish",
+        "value": "Wi-Fi / Bluetooth"
+      },
+      {
+        "key": "Ovozli boshqaruv",
+        "value": "Mavjud"
+      },
+      {
+        "key": "Tizim",
+        "value": "Smart Home"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "JBL"
+          },
+          {
+            "label": "Kafolat",
+            "value": "2 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Germaniya"
+          }
+        ]
+      },
+      {
+        "group": "Ulanish",
+        "items": [
+          {
+            "label": "Simsiz aloqa",
+            "value": "Wi-Fi 2.4 GHz"
+          },
+          {
+            "label": "Ilova orqali boshqarish",
+            "value": "Bor"
+          },
+          {
+            "label": "Ekosistema",
+            "value": "Google Home / Alexa / Yandex"
+          }
+        ]
+      }
+    ],
+    "description": "Ovozli buyruqlar bilan ishlaydigan aqlli kolonka. Musiqa tinglash va uyni boshqarish uchun. Absens distinctio vae supellex tondeo clam deficio corpus conitor. Adamo cervus commemoro delectatio quis vigilo amplus autus.",
+    "advantages": [
+      "baiulus tabesco cauda",
+      "numquam caritas cui advenio",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Jodie",
+        "date": "19 aprel 2024",
+        "rating": 3,
+        "comment": "Adstringo infit maxime ulterius animadverto cotidie vicissitudo auctus victoria doloribus.",
+        "pros": "celebrer copia certus",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Kasey",
+        "date": "7 dekabr 2024",
+        "rating": 4,
+        "comment": "Vehemens depulso vicissitudo animus.",
+        "pros": "despecto agnitio apostolus",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Lottie",
+        "date": "24 oktyabr 2024",
+        "rating": 3,
+        "comment": "Tremo nobis sol vos.",
+        "pros": "comes cruentus vergo",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Erling",
+        "date": "9 iyun 2024",
+        "rating": 3,
+        "comment": "Corrupti animi argumentum antea.",
+        "pros": "aqua tolero voluptatum",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10005,
+        "user": "Mack",
+        "date": "17 mart 2024",
+        "rating": 4,
+        "comment": "Versus debilito possimus coerceo.",
+        "pros": "verumtamen clementia charisma",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10006,
+        "user": "Reinhold",
+        "date": "28 iyul 2024",
+        "rating": 5,
+        "comment": "Magni absque amplexus expedita thymum tego timor cuius conservo.",
+        "pros": "ex ait absens",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10007,
+        "user": "Jalen",
+        "date": "19 iyun 2024",
+        "rating": 3,
+        "comment": "Caste cumque cupressus carbo modi.",
+        "pros": "aspicio arx sequi",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10008,
+        "user": "Chaya",
+        "date": "8 noyabr 2024",
+        "rating": 4,
+        "comment": "Corrumpo tricesimus curis ipsum vindico charisma cura umquam.",
+        "pros": "ver vigor denego",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10009,
+        "user": "Brooklyn",
+        "date": "2 oktyabr 2024",
+        "rating": 3,
+        "comment": "Aliqua correptius possimus volo valeo voluptas cervus censura.",
+        "pros": "accusator voro una",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10010,
+        "user": "Cordie",
+        "date": "2 iyul 2024",
+        "rating": 5,
+        "comment": "Tutamen odio pecto defessus.",
+        "pros": "capto armarium utroque",
+        "cons": "conor ullus"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nomi": "Kofemolka Moulinex GS-135",
+    "catalog": "Oshxona jihozlari",
+    "category": "Maishiy texnika / Oshxona / Blenderlar",
+    "brand": "Moulinex",
+    "rating": 5,
+    "reviewsCount": 1,
+    "ordersCount": 861,
+    "oldPrice": 3487000,
+    "newPrice": 2615000,
+    "discount": 25,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#808080"
+    ],
+    "seller": {
+      "name": "Moulinex Official Store",
+      "rating": "4.7",
+      "reviews": 979
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/950/95062/204087/f55bf5c6-f919-416c-9c14-5352515b2878.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/950/95062/173132/1e8693b1-57a7-4a2d-9143-4add9f7864fc.jpg"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/943/94304/204089/3dc58baf-59f8-4f5e-af15-71b050a75377.webp"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Quvvat",
+        "value": "1303 W"
+      },
+      {
+        "key": "Hajm",
+        "value": "1.8 L"
+      },
+      {
+        "key": "Korpus materiali",
+        "value": "Shisha"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Moulinex"
+          },
+          {
+            "label": "Kafolat",
+            "value": "1 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Malayziya"
+          }
+        ]
+      },
+      {
+        "group": "Texnik parametrlar",
+        "items": [
+          {
+            "label": "Quvvat",
+            "value": "1303 W"
+          },
+          {
+            "label": "Tezlik rejimlari",
+            "value": "7"
+          },
+          {
+            "label": "Idish hajmi",
+            "value": "1.8 L"
+          }
+        ]
+      }
+    ],
+    "description": "Oshxonangiz uchun ajralmas yordamchi. Turli xil mahsulotlarni aralashtirish va maydalash uchun mo'ljallangan. Tamen avarus careo acerbitas arto absum. Cervus adversus tunc depulso traho absconditus correptius accusator.",
+    "advantages": [
+      "tracto appositus cognatus",
+      "aeger tendo spoliatio synagoga",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Kari",
+        "date": "6 mart 2024",
+        "rating": 5,
+        "comment": "Nobis casus cilicium.",
+        "pros": "soleo arceo creber",
+        "cons": "Yo'q"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nomi": "Changyutgich Samsung KQ-880",
+    "catalog": "Tozalash texnikasi",
+    "category": "Maishiy texnika / Tozalash / Changyutgichlar",
+    "brand": "Samsung",
+    "rating": 5,
+    "reviewsCount": 2,
+    "ordersCount": 234,
+    "oldPrice": 5584000,
+    "newPrice": 4412000,
+    "discount": 21,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#FFFFFF"
+    ],
+    "seller": {
+      "name": "Samsung Official Store",
+      "rating": "4.6",
+      "reviews": 658
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1020/102048/179865/5e58a74a-a4e6-4ae0-97ff-316e1ee4112e.jpg"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1020/102048/179866/75db9c9f-1976-40be-94cb-1df67e87849b.jpg"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1020/102048/179869/d241a9da-59d6-4ce0-b0b4-f22e4ea1d0a6.jpg"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "So'rish kuchi",
+        "value": "1554 Pa"
+      },
+      {
+        "key": "Tozalash turi",
+        "value": "Quruq va nam"
+      },
+      {
+        "key": "Filtr",
+        "value": "HEPA"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Samsung"
+          },
+          {
+            "label": "Kafolat",
+            "value": "3 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Germaniya"
+          }
+        ]
+      },
+      {
+        "group": "Samaradorlik",
+        "items": [
+          {
+            "label": "So'rish kuchi",
+            "value": "1554 Pa"
+          },
+          {
+            "label": "Shovqin darajasi",
+            "value": "64 dB"
+          },
+          {
+            "label": "Chang yig'uvchi hajm",
+            "value": "0.9 L"
+          }
+        ]
+      }
+    ],
+    "description": "Uyingiz tozaligini saqlash uchun kuchli va qulay changyutgich. Changni mukammal tortib oladi. Coniuratio carmen vester aperte corrumpo vicissitudo triumphus taceo credo iure. Numquam creber auxilium trado decimus assentator valde alo aestivus.",
+    "advantages": [
+      "cum sublime tertius",
+      "pecco cur patrocinor agnosco",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Loraine",
+        "date": "24 avgust 2024",
+        "rating": 5,
+        "comment": "Trucido conculco suffoco votum.",
+        "pros": "eveniet tersus curvo",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Bertha",
+        "date": "7 aprel 2024",
+        "rating": 5,
+        "comment": "Absque culpa conqueror volubilis aperiam ultio corona derelinquo.",
+        "pros": "deduco terra deinde",
+        "cons": "atrocitas verecundia"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nomi": "Soqol olgich Braun CN-539",
+    "catalog": "Shaxsiy parvarish",
+    "category": "Go'zallik va salomatlik / Elektr ustaralar",
+    "brand": "Braun",
+    "rating": 3.9,
+    "reviewsCount": 9,
+    "ordersCount": 331,
+    "oldPrice": 1550000,
+    "newPrice": 1441000,
+    "discount": 7,
+    "tags": [],
+    "colors": [
+      "#000000"
+    ],
+    "seller": {
+      "name": "Braun Official Store",
+      "rating": "4.7",
+      "reviews": 979
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/935/93519/169181/82924707-e42d-40db-baf0-df0950e3b029.jpg"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/935/93519/169183/7115f290-3efd-41d1-912d-c35dff802dc8.jpg"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Quvvat manbai",
+        "value": "Tarmoq"
+      },
+      {
+        "key": "Qoplamasi",
+        "value": "Keramika"
+      },
+      {
+        "key": "Harorat rejimlari",
+        "value": "5"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Braun"
+          },
+          {
+            "label": "Kafolat",
+            "value": "1 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Xitoy"
+          }
+        ]
+      }
+    ],
+    "description": "Yuz terisini ta'sirlantirmasdan toza va silliq olish uchun elektr ustara. Consuasor desipio territo reprehenderit. Colligo stipes beneficium stipes amplexus subito amitto abundans patior.",
+    "advantages": [
+      "termes vulgus tabernus",
+      "coaegresco ultio bellum abscido",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Alexandrea",
+        "date": "10 avgust 2024",
+        "rating": 5,
+        "comment": "Aiunt vitiosus damno utor statim tolero ex.",
+        "pros": "cogito censura vos",
+        "cons": "cinis strenuus"
+      },
+      {
+        "id": 10002,
+        "user": "Leopoldo",
+        "date": "5 iyun 2024",
+        "rating": 3,
+        "comment": "Admoneo vulgaris adicio asporto delectatio degero.",
+        "pros": "vestigium acies appono",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Maxie",
+        "date": "28 dekabr 2024",
+        "rating": 4,
+        "comment": "Tremo sublime comes absque traho appono comitatus.",
+        "pros": "necessitatibus cena dedico",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Rashawn",
+        "date": "9 yanvar 2024",
+        "rating": 5,
+        "comment": "Denego taedium torqueo vomica defetiscor virga brevis sapiente.",
+        "pros": "causa tum aperiam",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10005,
+        "user": "Oscar",
+        "date": "27 iyul 2024",
+        "rating": 3,
+        "comment": "Sui aperte cognatus abutor.",
+        "pros": "damno adimpleo decerno",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10006,
+        "user": "Ezra",
+        "date": "1 avgust 2024",
+        "rating": 3,
+        "comment": "Summa curis circumvenio nulla.",
+        "pros": "conculco torqueo vinculum",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10007,
+        "user": "Mortimer",
+        "date": "15 yanvar 2024",
+        "rating": 3,
+        "comment": "Colo tempora adnuo paens strues curso animi cubo substantia.",
+        "pros": "cubitum sollicito nesciunt",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10008,
+        "user": "Rosalinda",
+        "date": "28 mart 2024",
+        "rating": 5,
+        "comment": "Adimpleo aranea deprecator virga.",
+        "pros": "aequitas arbitro virgo",
+        "cons": "super totidem"
+      },
+      {
+        "id": 10009,
+        "user": "Katelin",
+        "date": "24 aprel 2024",
+        "rating": 4,
+        "comment": "Aeneus venustas tum torrens similique.",
+        "pros": "celebrer voluptatibus crastinus",
+        "cons": "Yo'q"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nomi": "Stol chirog'i Xiaomi LM-486",
+    "catalog": "Aqlli uy",
+    "category": "Elektronika / Aqlli uy / Yoritish",
+    "brand": "Xiaomi",
+    "rating": 4.2,
+    "reviewsCount": 10,
+    "ordersCount": 565,
+    "oldPrice": 2707000,
+    "newPrice": 1922000,
+    "discount": 29,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#808080"
+    ],
+    "seller": {
+      "name": "Xiaomi Official Store",
+      "rating": "4.5",
+      "reviews": 478
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/842/84247/206478/28df7a75-b0cf-46b6-8828-91d5190b7459.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/842/84244/163705/37a0299f-6d74-4c91-bba0-18d12bca4566.jpg"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/842/84245/163706/3dda48ea-eb51-4b8b-9565-7b897e85a619.jpg"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/1010/101091/206569/e8c1ca66-d004-4735-856f-b4d6d281a669.webp"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Ulanish",
+        "value": "Wi-Fi / Bluetooth"
+      },
+      {
+        "key": "Ovozli boshqaruv",
+        "value": "Mavjud"
+      },
+      {
+        "key": "Tizim",
+        "value": "Smart Home"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Xiaomi"
+          },
+          {
+            "label": "Kafolat",
+            "value": "3 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Germaniya"
+          }
+        ]
+      },
+      {
+        "group": "Ulanish",
+        "items": [
+          {
+            "label": "Simsiz aloqa",
+            "value": "Wi-Fi 2.4 GHz"
+          },
+          {
+            "label": "Ilova orqali boshqarish",
+            "value": "Bor"
+          },
+          {
+            "label": "Ekosistema",
+            "value": "Google Home / Alexa / Yandex"
+          }
+        ]
+      }
+    ],
+    "description": "Smartfon orqali boshqariladigan aqlli yoritish tizimi. Ranglarni o'zgartirish imkoniyati. Amplexus praesentium tutis statua capitulus cursus. Clarus desolo claudeo.",
+    "advantages": [
+      "defungo custodia crinis",
+      "ancilla carmen adversus viduo",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Andy",
+        "date": "11 sentyabr 2024",
+        "rating": 5,
+        "comment": "Thalassinus conitor bestia dedecor assentator studio vicinus censura.",
+        "pros": "umerus patruus nam",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Cyril",
+        "date": "28 aprel 2024",
+        "rating": 5,
+        "comment": "Subnecto id benevolentia demens acer cibus vesper optio demo tempus.",
+        "pros": "censura tricesimus demulceo",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Sofia",
+        "date": "14 fevral 2024",
+        "rating": 4,
+        "comment": "Antea aestas talio ascit derelinquo arx ante optio solus ullam.",
+        "pros": "tabernus patior enim",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Alia",
+        "date": "5 mart 2024",
+        "rating": 5,
+        "comment": "Adversus cattus libero terminatio vesco maxime.",
+        "pros": "corrigo debilito vivo",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10005,
+        "user": "Winona",
+        "date": "5 fevral 2024",
+        "rating": 4,
+        "comment": "Stultus eligendi pax amplexus aggredior depraedor coepi.",
+        "pros": "dapifer aegrus tredecim",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10006,
+        "user": "Dewayne",
+        "date": "27 dekabr 2024",
+        "rating": 3,
+        "comment": "Color conservo aptus voluntarius deorsum somniculosus quam veritas.",
+        "pros": "caritas soleo curto",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10007,
+        "user": "Gino",
+        "date": "2 yanvar 2024",
+        "rating": 4,
+        "comment": "Amet ambitus amo atrox.",
+        "pros": "vulgo caste decet",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10008,
+        "user": "Annamarie",
+        "date": "13 iyul 2024",
+        "rating": 4,
+        "comment": "Supra aptus nesciunt absconditus calamitas doloribus delicate bibo totus.",
+        "pros": "arbor cras dolore",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10009,
+        "user": "Llewellyn",
+        "date": "8 dekabr 2024",
+        "rating": 4,
+        "comment": "Velit magnam colligo causa tristis.",
+        "pros": "decet confido cupiditas",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10010,
+        "user": "Lafayette",
+        "date": "4 mart 2024",
+        "rating": 4,
+        "comment": "Sit minus validus solio arcus iusto comburo terga.",
+        "pros": "tantillus magnam deludo",
+        "cons": "calco tempus"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nomi": "Blender Moulinex WH-508",
+    "catalog": "Oshxona jihozlari",
+    "category": "Maishiy texnika / Oshxona / Blenderlar",
+    "brand": "Moulinex",
+    "rating": 3.6,
+    "reviewsCount": 7,
+    "ordersCount": 978,
+    "oldPrice": 6562000,
+    "newPrice": 5052000,
+    "discount": 23,
+    "tags": [],
+    "colors": [
+      "#FF0000",
+      "#FFFFFF",
+      "#1E3A8A"
+    ],
+    "seller": {
+      "name": "Moulinex Official Store",
+      "rating": "5.0",
+      "reviews": 132
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/942/94299/203986/928d6378-e49b-4caf-8ac8-d5ce324f5f15.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/942/94299/170969/a0c051de-4a21-4af2-84ff-d36a154d9000.jpg"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/942/94299/170970/7f8c8a89-23af-4223-bceb-91ddee110dd1.jpg"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/942/94299/170971/56dd7740-e407-41ee-95f1-8fec167ac4dd.jpg"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Quvvat",
+        "value": "1015 W"
+      },
+      {
+        "key": "Hajm",
+        "value": "1.5 L"
+      },
+      {
+        "key": "Korpus materiali",
+        "value": "Metal"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Moulinex"
+          },
+          {
+            "label": "Kafolat",
+            "value": "1 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Xitoy"
+          }
+        ]
+      },
+      {
+        "group": "Texnik parametrlar",
+        "items": [
+          {
+            "label": "Quvvat",
+            "value": "1015 W"
+          },
+          {
+            "label": "Tezlik rejimlari",
+            "value": "2"
+          },
+          {
+            "label": "Idish hajmi",
+            "value": "1.5 L"
+          }
+        ]
+      }
+    ],
+    "description": "Oshxonangiz uchun ajralmas yordamchi. Turli xil mahsulotlarni aralashtirish va maydalash uchun mo'ljallangan. Capio sublime corroboro fugiat subvenio excepturi. Varius volubilis summopere asperiores vis.",
+    "advantages": [
+      "desipio defungo bene",
+      "supellex ultio usus sperno",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Maxwell",
+        "date": "17 mart 2024",
+        "rating": 4,
+        "comment": "Approbo cupio alias compono turbo.",
+        "pros": "subiungo voro aspernatur",
+        "cons": "utpote aegrus"
+      },
+      {
+        "id": 10002,
+        "user": "Jedediah",
+        "date": "20 avgust 2024",
+        "rating": 4,
+        "comment": "Congregatio conculco sufficio commemoro odit earum tricesimus sopor nisi.",
+        "pros": "calamitas vinum decens",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Tressa",
+        "date": "8 dekabr 2024",
+        "rating": 3,
+        "comment": "Vinitor fugiat reiciendis suscipit cibo sto cometes averto arto.",
+        "pros": "adfectus crustulum a",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Dillon",
+        "date": "22 dekabr 2024",
+        "rating": 3,
+        "comment": "Ubi convoco deripio defero arca conqueror admitto abstergo apostolus vulgus.",
+        "pros": "acies voro tergum",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10005,
+        "user": "Elliot",
+        "date": "12 sentyabr 2024",
+        "rating": 3,
+        "comment": "Volo aperio coaegresco vulnero.",
+        "pros": "vereor tabula derideo",
+        "cons": "suadeo sumo"
+      },
+      {
+        "id": 10006,
+        "user": "Domenic",
+        "date": "24 fevral 2024",
+        "rating": 4,
+        "comment": "Vulgivagus dedecor compono totam possimus molestiae casso depulso pecto caecus.",
+        "pros": "absque pecco antiquus",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10007,
+        "user": "Marianna",
+        "date": "7 iyun 2024",
+        "rating": 4,
+        "comment": "Sollicito audentia vobis toties amo cicuta.",
+        "pros": "cerno caritas sunt",
+        "cons": "Yo'q"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nomi": "Elektr ustara Philips GU-451",
+    "catalog": "Shaxsiy parvarish",
+    "category": "Go'zallik va salomatlik / Elektr ustaralar",
+    "brand": "Philips",
+    "rating": 4.3,
+    "reviewsCount": 3,
+    "ordersCount": 713,
+    "oldPrice": 7385000,
+    "newPrice": 5834000,
+    "discount": 21,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#808080",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "seller": {
+      "name": "Philips Official Store",
+      "rating": "4.6",
+      "reviews": 752
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/3580/358012/205904/bc4d6887-a140-4359-b92d-dfa0c803c1d3.webp"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/3580/358012/205903/0423c174-102c-47fc-b0d6-688c0cc8ecbf.webp"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Quvvat manbai",
+        "value": "Akumulyator"
+      },
+      {
+        "key": "Qoplamasi",
+        "value": "Keramika"
+      },
+      {
+        "key": "Harorat rejimlari",
+        "value": "4"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Philips"
+          },
+          {
+            "label": "Kafolat",
+            "value": "1 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Xitoy"
+          }
+        ]
+      }
+    ],
+    "description": "Yuz terisini ta'sirlantirmasdan toza va silliq olish uchun elektr ustara. Perferendis accusantium suspendo deprimo synagoga vapulus doloremque ascit asper. Vereor repellendus derideo stips.",
+    "advantages": [
+      "nam tempus ars",
+      "natus deorsum adhaero quae",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Irwin",
+        "date": "10 avgust 2024",
+        "rating": 3,
+        "comment": "Theca crustulum maiores velociter dolorum.",
+        "pros": "auditor articulus illum",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Zackery",
+        "date": "16 dekabr 2024",
+        "rating": 5,
+        "comment": "Viridis tyrannus volaticus dens vulgo terminatio tardus sollers civitas acer.",
+        "pros": "deludo undique alienus",
+        "cons": "apud arcesso"
+      },
+      {
+        "id": 10003,
+        "user": "Brigitte",
+        "date": "23 iyun 2024",
+        "rating": 5,
+        "comment": "Porro animus commodi.",
+        "pros": "concido tonsor vallum",
+        "cons": "natus aureus"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nomi": "Moyli radiator Vitek WL-543",
+    "catalog": "Isitish va sovutish",
+    "category": "Iqlim texnikasi / Isitgichlar",
+    "brand": "Vitek",
+    "rating": 4,
+    "reviewsCount": 10,
+    "ordersCount": 880,
+    "oldPrice": 2456000,
+    "newPrice": 1646000,
+    "discount": 33,
+    "tags": [
+      "Hit",
+      "Tavsiya"
+    ],
+    "colors": [
+      "#FF0000"
+    ],
+    "seller": {
+      "name": "Vitek Official Store",
+      "rating": "4.7",
+      "reviews": 984
+    },
+    "images": [
+      {
+        "id": 1,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/946/94632/171950/c49f101a-ecd4-40c7-bccf-6a6b4dc548ff.jpg"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://mini-io-api.texnomart.uz/catalog/product/946/94632/171952/50b099b3-a6b6-471e-8440-ee327fa82cd1.jpg"
+      }
+    ],
+    "shortSpecs": [
+      {
+        "key": "Xizmat ko'rsatish maydoni",
+        "value": "26 m²"
+      },
+      {
+        "key": "Rejimlar",
+        "value": "Isitish / Sovutish"
+      },
+      {
+        "key": "Displey",
+        "value": "Mavjud"
+      }
+    ],
+    "fullSpecs": [
+      {
+        "group": "Asosiy",
+        "items": [
+          {
+            "label": "Brend",
+            "value": "Vitek"
+          },
+          {
+            "label": "Kafolat",
+            "value": "2 yil"
+          },
+          {
+            "label": "Ishlab chiqarilgan davlat",
+            "value": "Germaniya"
+          }
+        ]
+      },
+      {
+        "group": "Texnik xususiyatlar",
+        "items": [
+          {
+            "label": "Tavsiya etilgan maydon",
+            "value": "26 m²"
+          },
+          {
+            "label": "Freon turi",
+            "value": "R410A"
+          },
+          {
+            "label": "Energiya samaradorligi",
+            "value": "A"
+          }
+        ]
+      }
+    ],
+    "description": "Sovuq kunlarda uyingizni isitish uchun xavfsiz va samarali isitgich. Solitudo cernuus una fuga aliquam animadverto confero aro. Aqua beatae adaugeo.",
+    "advantages": [
+      "deleo civis vesper",
+      "esse stips uter bene",
+      "Kafolatli xizmat"
+    ],
+    "reviewsList": [
+      {
+        "id": 10001,
+        "user": "Caleb",
+        "date": "8 iyul 2024",
+        "rating": 5,
+        "comment": "Balbus vado bellicus abundans demitto.",
+        "pros": "tibi totus adeptio",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10002,
+        "user": "Brianne",
+        "date": "28 may 2024",
+        "rating": 4,
+        "comment": "Valde cogo cubicularis conicio creo ubi tendo.",
+        "pros": "temperantia crepusculum amita",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10003,
+        "user": "Olga",
+        "date": "27 sentyabr 2024",
+        "rating": 5,
+        "comment": "Voco audacia sub cedo sub amor thema cruentus.",
+        "pros": "combibo aeneus thermae",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10004,
+        "user": "Franz",
+        "date": "1 avgust 2024",
+        "rating": 5,
+        "comment": "Tum assentator aestas.",
+        "pros": "theca ciminatio curto",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10005,
+        "user": "Kasey",
+        "date": "12 aprel 2024",
+        "rating": 3,
+        "comment": "Tener videlicet creptio ad cui hic adflicto.",
+        "pros": "totidem bonus acquiro",
+        "cons": "est sub"
+      },
+      {
+        "id": 10006,
+        "user": "Edythe",
+        "date": "1 mart 2024",
+        "rating": 5,
+        "comment": "Ademptio et solitudo censura sustineo decretum.",
+        "pros": "curis acidus caelum",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10007,
+        "user": "Salma",
+        "date": "7 dekabr 2024",
+        "rating": 3,
+        "comment": "Vobis thermae aequitas.",
+        "pros": "paens thesis viriliter",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10008,
+        "user": "Anais",
+        "date": "26 mart 2024",
+        "rating": 3,
+        "comment": "Perferendis concido aperiam apostolus barba curriculum defluo amo amissio annus.",
+        "pros": "conservo ventosus substantia",
+        "cons": "Yo'q"
+      },
+      {
+        "id": 10009,
+        "user": "Brice",
+        "date": "16 aprel 2024",
+        "rating": 3,
+        "comment": "Censura suus maxime velit exercitationem quia sonitus dolores apostolus utor.",
+        "pros": "adnuo at sumo",
+        "cons": "conforto temporibus"
+      },
+      {
+        "id": 10010,
+        "user": "Tavares",
+        "date": "21 dekabr 2024",
+        "rating": 4,
+        "comment": "Audacia bellum vitiosus.",
+        "pros": "crepusculum aspicio beatae",
+        "cons": "Yo'q"
+      }
+    ]
+  }
+]
